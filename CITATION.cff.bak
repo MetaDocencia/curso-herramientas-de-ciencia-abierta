@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+
+message: "Si reutilizan, adaptan o amplían estos materiales, por favor citen esta lección utilizando la información de este archivo."
+
+title: "Plantilla de lección Workbench de MetaDocencia"
+
+type: webpage
+
+abstract: >
+  Plantilla de lección para el Workbench adaptada por MetaDocencia. Este
+  repositorio sirve como base para desarrollar materiales de formación que
+  buscan fortalecer capacidades científicas y técnicas en comunidades
+  hispanohablantes.
+
+authors:
+  - given-names: "Equipo"
+    family-names: "MetaDocencia"
+    affiliation: "MetaDocencia"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - MetaDocencia
+  - formación docente
+  - enseñanza
+  - Ciencia Abierta
+
+repository-code: "https://github.com/MetaDocencia/metadocencia-workbench-template"
+url: "https://github.com/MetaDocencia/metadocencia-workbench-template"
+
+version: "0.1.0"
+date-released: "2025-06-13"
+
+preferred-citation:
+  type: webpage
+  title: "Plantilla de lección Workbench de MetaDocencia"
+  authors:
+    - given-names: "Equipo"
+      family-names: "MetaDocencia"
+  year: 2025
+  url: "https://github.com/MetaDocencia/metadocencia-workbench-template"
