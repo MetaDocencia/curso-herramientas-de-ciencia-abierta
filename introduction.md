@@ -104,6 +104,14 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 Anunciaremos la apertura e instrucciones para inscribirte en este curso a través de nuestras redes sociales, nuestro boletín y nuestro Slack comunitario. Si aún no recibes estos medios de comunicación, ¡[súmate](https://metadocencia.org/cta/)!
 
+## Sobre MetaDocencia
+
+MetaDocencia es una organización sin fines de lucro que trabaja para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
+
+Construimos capacidades científicas y técnicas de forma responsable y con mirada local, mediante la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
+
+Para conocer más sobre nuestra misión y visión institucionales, visitá el [sitio web de MetaDocencia](https://www.metadocencia.org/).
+
 ## ¡Sírvete sin culpa!
 
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo licencia **CC BY 4.0**. Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas; lo único que pedimos a cambio es que incluyas una referencia a esta página web.
