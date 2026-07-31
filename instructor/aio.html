@@ -295,7 +295,7 @@
         
 <section id="aio-introduction"><p>Content from <a href="introduction.html">Introducción</a></p>
 <hr>
-<p>Última actualización: 2026-07-28 |
+<p>Última actualización: 2026-07-31 |
 
         <a href="https://example.com/template-source/lesson-example/edit/main/episodes/introduction.Rmd" class="external-link">Mejora esta página <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Tiempo estimado: <i aria-hidden="true" data-feather="clock"></i> 12 minutos</p>
@@ -310,8 +310,10 @@
 <div class="inner">
 <h3 class="card-title">Preguntas</h3>
 <ul>
-<li>¿Cómo se escribe una lección usando R Markdown y
-<a href="https://carpentries.github.io/sandpaper/" class="external-link">sandpaper</a>?</li>
+<li>¿Qué, por qué y cómo de la Ciencia Abierta?</li>
+<li>¿Cómo usar, crear y compartir Datos Abiertos?</li>
+<li>¿Cómo usar, crear y compartir Código Abierto?</li>
+<li>¿Cómo usar, crear y compartir Resultados Abiertos?</li>
 </ul>
 </div>
 </div>
@@ -321,170 +323,198 @@
 <div class="inner bordered">
 <h3 class="card-title">Objetivos</h3>
 <ul>
-<li>Explicar cómo usar markdown con la nueva plantilla de lección<br>
+<li>Explicar los fundamentos de la Ciencia Abierta<br>
 </li>
-<li>Demostrar cómo incluir fragmentos de código, figuras y bloques de
-actividades anidados</li>
+<li>Demostrar …</li>
+<li>
+</li>
+<li>
+</li>
 </ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-<section><h2 class="section-heading" id="introducción">Introducción<a class="anchor" aria-label="anchor" href="#introducci%C3%B3n"></a>
+<section><h2 class="section-heading" id="descripción-del-curso">Descripción del curso<a class="anchor" aria-label="anchor" href="#descripci%C3%B3n-del-curso"></a>
 </h2>
 <hr class="half-width">
-<p>Esta es una lección creada mediante el template de Workbench adaptada
-por MetaDocencia, creada por The Carpentries. Está escrita en<br><a href="https://pandoc.org/MANUAL.html" class="external-link">Markdown con sintaxis de
-Pandoc</a> para archivos estáticos (con extensión <code>.md</code>)
-y<br><a href="https://rmarkdown.rstudio.com/" class="external-link">R Markdown</a> para archivos
-dinámicos que pueden renderizar código y mostrar el resultado<br>
-(con extensión <code>.Rmd</code>). Consultá la <a href="https://carpentries.github.io/sandpaper-docs/" class="external-link">Introducción a The
-Carpentries<br>
-Workbench</a> para ver la documentación completa.</p>
-<p>Hay tres secciones requeridas para una plantilla de lección
-válida:</p>
-<ol style="list-style-type: decimal">
-<li>
-<code>questions</code> se muestran al comienzo del episodio para
-preparar a la persona que aprenderá el contenido.<br>
-</li>
-<li>
-<code>objectives</code> son los objetivos de aprendizaje del
-episodio y se muestran junto con las preguntas.<br>
-</li>
-<li>
-<code>keypoints</code> se muestran al final del episodio para
-reforzar los objetivos.</li>
-</ol>
-<div id="accordionInstructor1" class="accordion instructor-note accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
-  <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Notas de la instructora </h3>
-</button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
-<div class="accordion-body">
-<p>Las notas para instructores en línea pueden ayudar a anticipar
-desafíos y almacenar notas de la persona oradora.<br>
-Aparecen en la “Vista para instructores”.</p>
-</div>
-</div>
-</div>
-</div>
-<div id="desafío-1-podés-hacerlo" class="callout challenge">
-<div class="callout-square">
-<i class="callout-icon" data-feather="zap"></i>
-</div>
-<span class="callout-header">Desafío</span>
-<div id="desafío-1-podés-hacerlo" class="callout-inner">
-<h3 class="callout-title">Desafío 1: ¿Podés hacerlo?</h3>
-<div class="callout-content">
-<p>¿Cuál es el resultado de este comando?</p>
-<div class="codewrapper sourceCode" id="cb1">
-<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
-</h3>
-<pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">paste</span><span class="op">(</span><span class="st">"Esta"</span>, <span class="st">"nueva"</span>, <span class="st">"lección"</span>, <span class="st">"luce"</span>, <span class="st">"bien"</span><span class="op">)</span></span></code></pre>
-</div>
-</div>
-</div>
-</div>
-<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
-  <h4 class="accordion-header" id="headingSolution1"> Salida </h4>
-</button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
-<div class="accordion-body">
-<div class="codewrapper">
-<h3 class="code-label">SALIDA<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
-</h3>
-<pre class="output" tabindex="0"><code>[1] "Esta nueva lección luce bien"</code></pre>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="desafío-2-cómo-anidar-soluciones-dentro-de-bloques-de-desafío" class="callout challenge">
-<div class="callout-square">
-<i class="callout-icon" data-feather="zap"></i>
-</div>
-<span class="callout-header">Desafío</span>
-<div id="desafío-2-cómo-anidar-soluciones-dentro-de-bloques-de-desafío" class="callout-inner">
-<h3 class="callout-title">Desafío 2: ¿cómo anidar soluciones dentro de
-bloques de desafío?</h3>
-<div class="callout-content">
-
-</div>
-</div>
-</div>
-<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
-  <h4 class="accordion-header" id="headingSolution2"> Mostrar la solución </h4>
-</button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
-<div class="accordion-body">
-<p>Es posible gregar una línea con al menos tres dos puntos y la
-etiqueta <code>solution</code>.</p>
-</div>
-</div>
-</div>
-</div>
-</section><section><h2 class="section-heading" id="figuras">Figuras<a class="anchor" aria-label="anchor" href="#figuras"></a>
+<p>MetaDocencia, con el apoyo de <strong>NASA Open Science</strong>,
+invita a personas de comunidades hispanohablantes a conocer y aplicar
+buenas prácticas de la <strong>Ciencia Abierta</strong>.</p>
+<p><strong>Herramientas de Ciencia Abierta</strong> es un curso virtual
+de formación de <strong>4 semanas</strong>. Se enfoca en compartir
+conocimiento con mirada local y facilitar la implementación de
+principios y prácticas de Ciencia Abierta a partir del encuentro entre
+pares, el intercambio de recursos comprobados y referencias accesibles,
+y el análisis de situaciones y ejemplos vinculados a experiencias de
+comunidades hispanohablantes.</p>
+<p>La formación será <strong>virtual, gratuito</strong> y <strong>100%
+en español</strong>. Quienes participen activamente recibirán
+certificaciones de <strong>MetaDocencia</strong> y de <strong>NASA Open
+Science</strong>.</p>
+</section><section><h2 class="section-heading" id="motivaciones-para-participar">Motivaciones para participar<a class="anchor" aria-label="anchor" href="#motivaciones-para-participar"></a>
 </h2>
 <hr class="half-width">
-<p>Podés incluir figuras generadas desde R Markdown:</p>
-<div class="codewrapper sourceCode" id="cb3">
-<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
-</h3>
-<pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">pie</span><span class="op">(</span></span>
-<span>  <span class="fu">c</span><span class="op">(</span>Sky <span class="op">=</span> <span class="fl">78</span>, <span class="st">"Lado soleado de la pirámide"</span> <span class="op">=</span> <span class="fl">17</span>, <span class="st">"Lado sombreado de la pirámide"</span> <span class="op">=</span> <span class="fl">5</span><span class="op">)</span>, </span>
-<span>  init.angle <span class="op">=</span> <span class="fl">315</span>, </span>
-<span>  col <span class="op">=</span> <span class="fu">c</span><span class="op">(</span><span class="st">"deepskyblue"</span>, <span class="st">"yellow"</span>, <span class="st">"yellow3"</span><span class="op">)</span>, </span>
-<span>  border <span class="op">=</span> <span class="cn">FALSE</span></span>
-<span><span class="op">)</span></span></code></pre>
-</div>
-<figure style="text-align: center"><img src="../fig/introduction-rendered-pyramid-1.png" alt="ilusión de gráfico circular de una pirámide" class="figure mx-auto d-block"><figcaption>
-El sol sale cada mañana
-</figcaption></figure><p>O podés usar markdown de pandoc para figuras estáticas con la
-siguiente sintaxis:</p>
-<p><code>![subtítulo opcional que aparece debajo de la figura](url de la figura){alt='texto alternativo para accesibilidad'}</code></p>
-<figure><img src="https://raw.githubusercontent.com/MetaDocencia/varnish/main/inst/pkgdown/assets/assets/images/metadocencia-logo.svg" alt="Logo de MetaDocencia con una manzana y texto del nombre de la Organización." class="figure mx-auto d-block"><div class="figcaption">¡Estás participando de un curso de
-MetaDocencia!</div>
-</figure></section><section><h2 class="section-heading" id="matemática">Matemática<a class="anchor" aria-label="anchor" href="#matem%C3%A1tica"></a>
-</h2>
-<hr class="half-width">
-<p>El contenido puede contener ecuaciones en <span class="math inline">\(\LaTeX\)</span> al describir cómo crear<br>
-informes dinámicos con {knitr}, por lo que usamos MathJax para
-mostrarlas así:</p>
-<p><code>$ lpha = \dfrac{1}{(1 - eta)^2}$</code> se convierte en: $ lpha
-= $</p>
-<p>¿Genial, no?</p>
-<div id="keypoints1" class="callout keypoints">
-<div class="callout-square">
-<i class="callout-icon" data-feather="key"></i>
-</div>
-<span class="callout-header">Puntos Clave</span>
-<div class="callout-inner">
-<div class="callout-content">
+<p>Quienes completen esta formación podrán:</p>
 <ul>
-<li>Usá archivos <code>.md</code> para episodios con contenido
-estático<br>
-</li>
-<li>Usá archivos <code>.Rmd</code> para episodios que necesiten generar
-salidas dinámicas<br>
-</li>
-<li>Ejecutá <code>sandpaper::check_lesson()</code> para identificar
-problemas en tu lección<br>
-</li>
-<li>Ejecutá <code>sandpaper::build_lesson()</code> para previsualizar tu
-lección localmente</li>
-</ul>
+<li>Acceder a <strong>doble certificación</strong> MetaDocencia +
+NASA.</li>
+<li>Tener una primera aproximación a técnicas y principios que propone
+la Ciencia Abierta.</li>
+<li>Participar de un espacio de formación e intercambio en español sobre
+Ciencia Abierta.</li>
+<li>Ser parte de una experiencia que favorece el encuentro con otras
+personas hispanohablantes interesadas en la Ciencia Abierta.</li>
+<li>Integrar un espacio amigable y seguro para dar a conocer iniciativas
+y proyectos propios sobre Ciencia Abierta.</li>
+<li>Fortalecer y actualizar conocimientos en Ciencia Abierta a partir
+del intercambio colaborativo, para robustecer proyectos y
+prácticas.</li>
+<li>Acceder a recursos abiertos y referencias en español para seguir
+aplicando lo trabajado después de cada encuentro.</li>
+<li>Conocer herramientas y casos de Ciencia Abierta en acción.</li>
+</ul></section><section><h2 class="section-heading" id="para-quién">¿Para quién?<a class="anchor" aria-label="anchor" href="#para-qui%C3%A9n"></a>
+</h2>
+<hr class="half-width">
+<p>MetaDocencia cree en la importancia de convocar a perfiles de
+disciplinas diversas para enriquecer las conversaciones y promover la
+Ciencia Abierta generando espacios de intercambio transversales y
+abiertos que promuevan colaboraciones entre diversas áreas de
+conocimiento.</p>
+<p>Esperamos que puedan sumarse personas hispanohablantes relacionadas a
+la ciencia y a la técnica en un sentido amplio que:</p>
+<ul>
+<li>Estén interesadas en debatir o construir conocimiento sobre Ciencia
+Abierta en contextos hispanohablantes. Si esta es tu primera
+aproximación, ¡será un honor que participes del curso!</li>
+<li>Hayan participado en Ciencia Ciudadana, redes, eventos o comunidades
+asociadas a estos temas.</li>
+<li>Tengan alguna experiencia (en un rango amplio entre poca y
+muchísima) trabajando en iniciativas abiertas, por ejemplo, en
+publicaciones, datos, investigación, bibliotecas o repositorios, entre
+otras.</li>
+<li>Enseñen o difundan la ciencia y la técnica, ya sea desde un rol
+docente o de comunicación.</li>
+</ul></section><section><h2 class="section-heading" id="qué-no-incluye-esta-formación">¿Qué no incluye esta formación?<a class="anchor" aria-label="anchor" href="#qu%C3%A9-no-incluye-esta-formaci%C3%B3n"></a>
+</h2>
+<hr class="half-width">
+<ul>
+<li>Desarrollo en profundidad y práctica extensiva de los principios de
+Ciencia Abierta.</li>
+<li>Teoría de la ciencia o la epistemología.</li>
+<li>Uso de Ciencia Abierta enfocado en disciplinas específicas.</li>
+</ul></section><section><h2 class="section-heading" id="duración">Duración<a class="anchor" aria-label="anchor" href="#duraci%C3%B3n"></a>
+</h2>
+<hr class="half-width">
+<p>El curso tiene <strong>4 encuentros sincrónicos virtuales</strong>,
+con frecuencia semanal y una duración de <strong>2,5 horas</strong> cada
+uno, con pausas lejos de la pantalla aproximadamente cada <strong>50
+minutos</strong>.</p>
+<p>Los encuentros incluyen actividades destinadas a promover el
+intercambio y discutir entre pares en salas de trabajo.</p>
+</section><section><h2 class="section-heading" id="cronograma">Cronograma<a class="anchor" aria-label="anchor" href="#cronograma"></a>
+</h2>
+<hr class="half-width">
+<p>En el primer encuentro se definirá qué es la Ciencia Abierta y
+algunas de sus herramientas clave, junto a la modalidad de cada
+encuentro, canales de comunicación y colaboración. En los encuentros 2 a
+4 se presentarán conceptos y herramientas sobre Datos Abiertos, Código
+Abierto y Resultados Abiertos.</p>
+<table class="table">
+<colgroup>
+<col width="25%">
+<col width="75%">
+</colgroup>
+<thead><tr>
+<th align="right"></th>
+<th align="left">Tema (click para ver la Hoja de Ruta con contenidos y
+cronograma por módulo)</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="right">Primera semana de 0 a 2:30 hs</td>
+<td align="left"><a href="https://metadocencia.github.io/herramientas-de-ciencia-abierta/FundamentosE1.html" class="external-link"><em>Fundamentos
+de Ciencia Abierta</em></a></td>
+</tr>
+<tr>
+<td align="right">Segunda semana de 0 a 2:30 hs</td>
+<td align="left"><a href="https://metadocencia.github.io/herramientas-de-ciencia-abierta/DatosAbiertosE2.html" class="external-link"><em>Datos
+Abiertos</em></a></td>
+</tr>
+<tr>
+<td align="right">Tercera semana de 0 a 2:30 hs</td>
+<td align="left"><a href="https://metadocencia.github.io/herramientas-de-ciencia-abierta/CodigoAbiertoE3.html" class="external-link"><em>Código
+Abierto</em></a></td>
+</tr>
+<tr>
+<td align="right">Cuarta semana de 0 a 2:30 hs</td>
+<td align="left"><a href="https://metadocencia.github.io/herramientas-de-ciencia-abierta/ResultadosAbiertosE4.html" class="external-link"><em>Resultados
+Abiertos</em></a></td>
+</tr>
+</tbody>
+</table>
+<p>Para aumentar la accesibilidad de esta formación, grabaremos cada
+encuentro y compartiremos su grabación al día siguiente.</p>
+</section><section><h2 class="section-heading" id="certificación">Certificación<a class="anchor" aria-label="anchor" href="#certificaci%C3%B3n"></a>
+</h2>
+<hr class="half-width">
+<p>Quienes participen del curso podrán acceder a una <strong>doble
+certificación</strong>:</p>
+<div class="section level3">
+<h3 id="certificación-nasa-open-science">Certificación NASA Open Science<a class="anchor" aria-label="anchor" href="#certificaci%C3%B3n-nasa-open-science"></a>
+</h3>
+<p>Para obtener el certificado de conocimiento de los contenidos del <a href="https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101" class="external-link">Curso
+de Introducción a la Ciencia Abierta de la NASA</a> será necesario
+contestar correctamente el 70% de las preguntas de los cuestionarios
+administrados al final de cada encuentro. Los formularios estarán
+disponibles en español y se dedicará la última parte de los encuentros
+sincrónicos para responderlos. Se ofrecerá la posibilidad de
+completarlos de forma asincrónica (hasta 7 días corridos luego de la
+fecha del último encuentro) y de rehacerlos en el caso de no obtenerse
+el 70% de preguntas correctas.</p>
 </div>
+<div class="section level3">
+<h3 id="certificación-metadocencia">Certificación MetaDocencia<a class="anchor" aria-label="anchor" href="#certificaci%C3%B3n-metadocencia"></a>
+</h3>
+<p>Además, entregaremos un certificado de asistencia de MetaDocencia a
+quienes participen activamente, ya sea asistiendo sincrónicamente a 3 de
+los 4 encuentros, o habiendo completado 3 de los 4 cuestionarios
+detallados en el párrafo anterior al menos 7 días corridos después de la
+fecha del último encuentro sincrónico.</p>
 </div>
-</div>
+</section><section><h2 class="section-heading" id="cómo-participar">Cómo participar<a class="anchor" aria-label="anchor" href="#c%C3%B3mo-participar"></a>
+</h2>
+<hr class="half-width">
+<p>Anunciaremos la apertura e instrucciones para inscribirte en este
+curso a través de nuestras redes sociales, nuestro boletín y nuestro
+Slack comunitario. Si aún no recibes estos medios de comunicación, ¡<a href="https://metadocencia.org/cta/" class="external-link">súmate</a>!</p>
+</section><section><h2 class="section-heading" id="sírvete-sin-culpa">¡Sírvete sin culpa!<a class="anchor" aria-label="anchor" href="#s%C3%ADrvete-sin-culpa"></a>
+</h2>
+<hr class="half-width">
+<p>¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin
+culpa! Nuestros materiales están disponibles en forma gratuita bajo
+licencia <strong>CC BY 4.0</strong>. Es decir, puedes reusar o editar
+cualquier material que aparece encima de estas líneas; lo único que
+pedimos a cambio es que incluyas una referencia a esta página web.</p>
+<p>Para más información, escríbenos a: <strong><a href="mailto:formacion@metadocencia.org" class="email">formacion@metadocencia.org</a></strong>.</p>
+</section><section><h2 class="section-heading" id="financiamiento">Financiamiento<a class="anchor" aria-label="anchor" href="#financiamiento"></a>
+</h2>
+<hr class="half-width">
+<p>Esta formación es gratuita gracias al subsidio de la NASA
+<strong>80NSSC23K0854</strong> (DOI:
+<strong>10.5281/zenodo.8430889</strong>) y al subsidio
+<strong>DAF2021-239366</strong> y DOI de subsidio <strong><a href="https://doi.org/10.37921/522107izqogv" class="external-link uri">https://doi.org/10.37921/522107izqogv</a></strong> de la
+Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon
+Valley Community Foundation (DOI de financiador
+<strong>10.13039/100014989</strong>).</p>
+</section><section><h2 class="section-heading" id="contacto">📬 Contacto<a class="anchor" aria-label="anchor" href="#contacto"></a>
+</h2>
+<hr class="half-width">
+<p>¿Tienes dudas? Escríbenos a:<br>
+📧 <a href="mailto:formacion@metadocencia.org" class="email">formacion@metadocencia.org</a></p>
+<p>Puedes encontrar más materiales y recursos en:<br>
+🌐 <a href="https://www.metadocencia.org" class="external-link uri">https://www.metadocencia.org</a></p>
 <!--
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
