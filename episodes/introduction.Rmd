@@ -104,6 +104,17 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 Anunciaremos la apertura e instrucciones para inscribirte en este curso a través de nuestras redes sociales, nuestro boletín y nuestro Slack comunitario. Si aún no recibes estos medios de comunicación, ¡[súmate](https://metadocencia.org/cta/)!
 
+## ¿Cómo nos vamos a comunicar?
+
+Durante la formación utilizaremos tres canales para compartir novedades, recursos e información sobre los encuentros:
+
+| Canal | ¿Cómo lo utilizaremos? |
+|---|---|
+| **Slack** | Será nuestro principal espacio de encuentro e intercambio. En el canal `#ciencia-abierta` podrán compartir preguntas, opiniones y recursos. Antes de cada encuentro enviaremos un recordatorio y, luego, compartiremos la grabación y los materiales correspondientes. [Sumate al espacio de Slack](https://tinyurl.com/slack-ciencia-abierta). |
+| **Correo electrónico** | Por este medio enviaremos información sobre el siguiente encuentro y los recursos correspondientes al encuentro anterior. Recomendamos revisar la casilla de correo todas las semanas. |
+| **Pizarra de anuncios** | Reunirá en un mismo lugar la información y los recursos de cada encuentro. Se actualizará al día siguiente de cada encuentro y avisaremos por Slack cuando haya novedades. |
+
+Si necesitás ayuda para ingresar a Slack o tenés alguna consulta sobre la formación, escribinos a [formacion@metadocencia.org](mailto:formacion@metadocencia.org).
 ## Sobre MetaDocencia
 
 MetaDocencia es una organización sin fines de lucro que trabaja para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
@@ -111,6 +122,16 @@ MetaDocencia es una organización sin fines de lucro que trabaja para que la pro
 Construimos capacidades científicas y técnicas de forma responsable y con mirada local, mediante la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
 
 Para conocer más sobre nuestra misión y visión institucionales, visitá el [sitio web de MetaDocencia](https://www.metadocencia.org/).
+
+## Red de Comunidades Amigas
+
+Este curso, como el resto de las iniciativas de MetaDocencia, es posible gracias al apoyo y la colaboración de más de 30 comunidades aliadas y organizaciones patrocinadoras.
+
+Esta red reúne organizaciones con trayectorias y enfoques diversos, vinculadas con la Ciencia Abierta, los datos, el software, los resultados abiertos y otros temas afines.
+
+A lo largo de la formación conoceremos algunas de estas comunidades y los recursos que desarrollan.
+
+[Conocé nuestra Red de Comunidades Amigas y las organizaciones que acompañan a MetaDocencia](https://metadocencia.org/quienes-somos/)
 
 ## ¡Sírvete sin culpa!
 
