@@ -365,4 +365,503 @@ Cuanto más abierto está un trabajo, más fácil es encontrarlo y citarlo, y m�
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Intercambio en salas de grupo
 
+### ¿Cómo vamos a trabajar?
+
+En el siguiente ejercicio, dividiremos a quienes asisten en salas de grupo.
+
+1. Cada grupo elige una persona para moderar la conversación sobre el tema propuesto, optimizar los tiempos y socializar la palabra.
+2. Cada grupo elige una persona representante para sintetizar y compartir el intercambio en la sala principal.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Mientras se preparan las salas, explicá que la idea principal de estos ejercicios, que se realizarán en todos los encuentros, es que todas las personas puedan participar de un intercambio amable, claro y provechoso.
+
+Como probablemente habrá entre 8 y 10 salas, el equipo docente no podrá moderar cada una. Por eso, al comenzar, cada grupo deberá definir:
+
+- Quién moderará la conversación.
+- Quién tomará notas para el intercambio al finalizar el ejercicio.
+
+Una vez definidos esos roles, deberán revisar la consigna y comenzar el intercambio.
+
+Es importante que quien modera ayude a que circule la palabra, cuide los tiempos y propicie que todas las personas tengan la oportunidad de participar.
+
+Para favorecer la participación, suele ser necesario escuchar con atención, retomar lo que otras personas dijeron, conectar los aportes y llamar a cada quien por su nombre cuando sea posible.
+
+Como el tiempo es breve, conviene organizarlo de manera simple para que puedan conversar, registrar las ideas principales y llegar a una síntesis. 
+
+Más allá de estas sugerencias, lo importante es que la sala sea un espacio amable, donde cada persona pueda participar desde su experiencia y donde el intercambio sea respetuoso y útil.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## Ejercicio 3: Sala de grupos
+
+**Duración: 10 minutos**
+
+- ¿Qué preocupación te interpeló más?
+- ¿Reconocés otras?
+- ¿Qué puede hacerse para mitigarlas?
+
+Elijan una persona representante por grupo para resumir el intercambio al finalizar el ejercicio.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Recapitulando
+
+- La Ciencia Abierta propicia la participación en la ciencia y esto aumenta la precisión y el impacto de los resultados.
+- Aporta a la reproducibilidad, calidad y eficiencia de la ciencia.
+- Existen desafíos y barreras —estructurales y sociales—, pero también hay esfuerzos y mecanismos para mitigarlos.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Retomá las tres ideas principales de esta primera parte:
+
+- La Ciencia Abierta propicia la participación en la ciencia y esto aumenta la precisión y el impacto de los resultados.
+- Aporta a la reproducibilidad, calidad y eficiencia de la ciencia.
+- Existen desafíos y barreras —estructurales y sociales—, pero también hay esfuerzos y mecanismos para mitigarlos.
+
+Los entornos con pocos recursos tienen desafíos adicionales. Practicar la Ciencia Abierta teniendo en cuenta el contexto es el primer paso para sortearlos.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Pausa
+
+Volvemos en 10 minutos.
+
+No te desconectes, pero sí alejate de las pantallas.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Música sugerida
+
+- Nación Ekeko (Argentina) y Julieta Venegas (México) — *El Paraíso*.
+- Álex Anwandter (Chile) — *Cordillera*.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Principios FAIR
+Los principios FAIR son principios guía para la información científica. Hacen posible que podamos encontrar, obtener, entender y usar correctamente datos, código y resultados.
+
+| Sigla | Principio |
+|---|---|
+| **F** | Fácil de encontrar |
+| **A** | Accesible |
+| **I** | Interoperable |
+| **R** | Reusable |
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Para trabajar desde un enfoque de Ciencia Abierta, los principios FAIR proporcionan un marco para gestionar y compartir productos abiertos: software, datos y resultados.
+
+A continuación, presentá en detalle los elementos que componen estos principios.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Fácil de encontrar
+
+- Que tenga asignado un identificador único y persistente.
+
+**Herramientas:** DOI, ORCID y DataCite Schema.
+
+> **Identificador Digital Persistente (PID):** referencia de larga duración a un recurso digital, legible por computadora, que apunta de manera única a una entidad digital.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Para poder acceder a los productos de una investigación —sean datos, código o resultados—, el primer paso es poder encontrarlos.
+
+Para que un producto sea fácil de encontrar, debemos asignarle un identificador único y persistente: un código que permite referenciar un contenido de manera única e inmutable a lo largo del tiempo.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### ORCID
+
+- Proporciona información válida sobre una persona.
+- Vincula a las personas que investigan con los resultados de su investigación.
+- Ayuda a evitar confusiones cuando la información sobre una persona que investiga cambia con el tiempo.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+ORCID —pronunciado *órkid*— significa *Open Researcher and Contributor Identifier*, que puede traducirse como «Identificador abierto de investigadores y colaboradores».
+
+Es una herramienta libre que:
+
+- Proporciona información válida sobre una persona.
+- Vincula a quienes investigan con los resultados de su investigación.
+- Ayuda a evitar confusiones cuando la información sobre una persona cambia con el tiempo.
+
+Por ejemplo, una misma persona puede figurar como «N. Palópoli» o «Nicolás Palópoli», pero su ORCID siempre será el mismo.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `ejemplo-perfil-orcid.png` en `episodes/fig/` 🟨🟨🟨 -->
+
+![Ejemplo de un perfil de ORCID.](fig/ejemplo-perfil-orcid.png){alt='Captura de pantalla de un perfil de ORCID identificado mediante un código numérico persistente. El perfil reúne información como empleo, educación, actividades profesionales, financiación y obras.'}
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+La imagen muestra un ejemplo de un perfil de ORCID. Cada perfil se identifica mediante un código numérico y puede contener múltiples ítems en categorías como empleo y educación.
+
+El identificador perdura en el tiempo y es independiente de la institución a la que pertenezcamos o del tipo de trabajo que hagamos.
+
+Podemos compararlo con el número de identificación que cada persona tiene en su país. Al nacer, el registro nacional de las personas asigna un número que nos acompaña toda la vida y que tiene asociados datos inmutables —como quiénes son nuestros padres o dónde nacimos— y otros que pueden variar —como nuestro domicilio o estado civil—. El número, sin embargo, siempre es el mismo.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### DOI
+
+- Se usa para identificar datos, software, artículos de revistas y otros tipos de medios.
+- Al citar materiales con un DOI, quienes encuentran esa referencia pueden usarla para identificar la fuente original.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Otro identificador es el DOI —*Digital Object Identifier* o «identificador de objetos digitales»—. Se usa para citar datos, software, artículos de revistas y otros tipos de contenidos, como presentaciones, publicaciones en blogs o videos.
+
+Generar un DOI contribuye a la longevidad de un producto digital, porque permite crear una cita —por ejemplo, en un artículo científico— y evitar que esa referencia se pierda a lo largo del tiempo.
+
+En los siguientes encuentros veremos cómo asignar un DOI a datos y código.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Otros PID
+
+- Handle.
+- ISBN (*International Standard Book Number*).
+- ISSN (*International Standard Serial Number*).
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Otros identificadores persistentes muy usados son:
+
+- **Handle:** similar al DOI y muy frecuente en repositorios institucionales.
+- **ISBN** (*International Standard Book Number*): identifica libros y publicaciones monográficas.
+- **ISSN** (*International Standard Serial Number*): identifica revistas y publicaciones seriadas.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Para que un producto sea fácil de encontrar, debe:
+
+- Tener asignado un identificador único y persistente.
+- Estar descrito con metadatos claros.
+- Estar registrado o indexado en bases de datos con capacidad de búsqueda.
+
+**Herramientas:** DOI, ORCID y DataCite Schema.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Además de asignarle un identificador, para que el producto que abrimos sea fácil de encontrar debemos:
+
+- **Describir los datos de manera clara y ordenada.** Es importante incluir información básica que explique qué son, cómo se generaron y cómo pueden usarse. También debe indicarse el identificador único y persistente asociado para facilitar su referencia, localización y manejo. Estos serán sus metadatos, que veremos con más detalle en el próximo encuentro.
+- **Registrar los datos y la información asociada en recursos adecuados.** Registrar o indexar datos y resultados en un recurso con capacidad de búsqueda implica almacenarlos y organizarlos en bases de datos o repositorios que permitan encontrarlos y acceder a ellos fácilmente.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Accesible
+
+Los datos, el código y los resultados deben ser:
+
+- Fácilmente recuperables mediante su PID.
+- Accesibles mediante un protocolo estándar abierto, gratuito y universal.
+- Accesibles mediante un sistema que garantice la seguridad.
+- Acompañados de información descriptiva —metadatos— disponible.
+
+**Herramientas:**
+
+- FTP (*File Transfer Protocol*).
+- HTTP (*Hypertext Transfer Protocol*).
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Una vez que encontramos un recurso —datos, código o resultados—, debemos poder acceder a él.
+
+Para que sea accesible:
+
+- Los datos o resultados deben poder recuperarse fácilmente. Por ejemplo, el identificador debe llevar directamente al recurso, sin confusión ni ambigüedades.
+- El acceso debe realizarse mediante un protocolo de comunicación estándar; es decir, mediante formas comunes y conocidas de acceder a la información en internet, como las que usamos todos los días al navegar por la web.
+
+Estos protocolos deben ser:
+
+- **Abiertos:** no propietarios ni cerrados.
+- **Gratuitos:** cualquier persona debe poder usarlos sin pagar licencias.
+- **Implementables universalmente:** deben funcionar en distintos sistemas, países y contextos.
+
+Esto evita que el acceso dependa de programas especiales o de tecnologías difíciles de obtener.
+
+En algunos casos, puede ser necesario controlar quién tiene acceso a los datos por motivos éticos o legales. Para eso, el sistema debe permitir un procedimiento de autenticación y autorización: una forma de verificar quién es la persona usuaria y definir a qué información puede acceder. Cuando no hay restricciones, lo ideal es que los datos y los resultados sean de acceso público.
+
+Finalmente, para que un producto sea considerado accesible, la información que lo describe —qué es, quién lo generó, cuándo y cómo se accede— debe perdurar incluso cuando el producto original ya no esté disponible.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## ¿Hasta aquí está todo bien?
+
+¿Cómo se sienten ahora? ¿Cómo venimos?
+
+Escribí en el chat el número de gatito que te representa ahora.
+
+<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `estado-gatitos.jpg` en `episodes/fig/` 🟨🟨🟨 -->
+
+![Escala visual de estados de ánimo representados por nueve gatos.](fig/estado-gatitos.jpg){alt='Cuadrícula de nueve fotografías numeradas del 1 al 9. Cada gato muestra una expresión diferente para que quienes participan elijan la que mejor representa cómo se sienten.'}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Interoperable
+
+Los datos deben:
+
+- Usar lenguajes formales, accesibles y compartidos para la representación del conocimiento.
+- Estar en un formato estandarizado.
+- Usar vocabularios que sigan los principios FAIR.
+- Incluir referencias calificadas a otros (meta)datos.
+
+**Herramientas:** JSON Schema, OpenAIRE, Open Funder Registry y Open Definition.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Para que la interoperabilidad sea posible, no alcanza con que los datos estén abiertos. También deben estar en formatos estandarizados y usar lenguajes comunes y vocabularios compartidos. Esto permite que distintos sistemas intercambien información entre sí.
+
+Los productos de investigación deben poder integrarse con otros datos e interoperar con aplicaciones para su análisis, almacenamiento o procesamiento. Queremos que puedan utilizarse con herramientas distintas de las empleadas originalmente en nuestras investigaciones.
+
+Los datos deben presentarse mediante lenguajes formales, accesibles y compartidos para la representación del conocimiento. También deben contener:
+
+- Información en un formato estandarizado, que no dependa de una herramienta en particular y pueda integrarse con otros productos.
+- Vocabularios que sigan los principios FAIR.
+- Referencias calificadas a otros metadatos: por ejemplo, una publicación que apunta a un conjunto de datos, un conjunto de datos que apunta a un proyecto o un proyecto que apunta a una institución o a un financiador.
+
+Las herramientas presentadas ayudan a resolver distintos problemas. No es necesario conocerlas en profundidad en este momento, sino comprender para qué sirven:
+
+- **JSON Schema** ayuda a describir la estructura de los datos: qué campos tienen y qué tipo de información corresponde a cada uno. Esto permite que otras personas o programas sepan cómo leerlos correctamente.
+- **OpenAIRE** y **Open Funder Registry** trabajan con información sobre investigación, financiamiento y resultados mediante identificadores y vocabularios comunes. Facilitan la conexión entre proyectos, publicaciones, datos y financiadores, incluso cuando provienen de países o instituciones diferentes.
+- **Open Definition** ayuda a aclarar qué significa que algo sea abierto mediante definiciones compartidas y reconocidas internacionalmente.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Reusable
+
+Los productos de investigación deben:
+
+- Estar descritos con atributos relevantes y precisos.
+- Estar asociados a una procedencia detallada.
+- Estar publicados con una licencia clara y accesible.
+- Ajustarse a las normas comunitarias pertinentes.
+
+**Herramientas:** Zenodo y DataCite Schema.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+El objetivo final de los principios FAIR es facilitar la reutilización de los productos de investigación.
+
+Especialmente en contextos como el nuestro, reutilizar datos generados por colegas en el marco de sus líneas de investigación puede reducir costos y aumentar el impacto y el beneficio social de los recursos destinados a la investigación.
+
+Para que estos productos puedan reutilizarse, deben:
+
+- Incluir información relevante, como quién los produjo, cuándo y cómo. Su procedencia debe ser clara, ya que es fundamental para evaluar su calidad y sus posibles usos.
+- Incluir información sobre las condiciones de uso; es decir, publicarse bajo una licencia clara y lo más abierta posible.
+- Ajustarse a las normas comunitarias pertinentes.
+
+**Zenodo** es un repositorio abierto para compartir productos de investigación. Permite publicar datos, código, artículos, presentaciones, pósteres y otros resultados para que otras personas puedan encontrarlos y reutilizarlos. Además, asigna un DOI y una licencia, y guía la carga de los atributos necesarios para que los productos sigan los principios FAIR.
+
+**DataCite Schema** es una guía estándar que indica qué información mínima y recomendada conviene incluir al publicar datos de investigación. Ayuda a cumplir los principios FAIR. Repositorios como Zenodo utilizan esquemas de metadatos alineados con DataCite.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## Ejercicio 4: Respondé la encuesta de Zoom
+
+**Duración: 3 minutos**
+
+¿A qué corresponden las siglas FAIR? Elegí todas las opciones correctas.
+
+- Reproducible.
+- Reusable.
+- Fácil de encontrar.
+- Interoperable.
+- Intercalado.
+- Accesible.
+- Autorizable.
+
+:::::::::::::::::::::::::::::::: solution
+
+Las cuatro opciones correctas son:
+
+- **Reusable.**
+- **Fácil de encontrar.**
+- **Interoperable.**
+- **Accesible.**
+
+::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Recapitulando
+
+- Los principales productos de la Ciencia Abierta son los datos, el código o software y los resultados.
+- Los principios FAIR son un conjunto de directrices diseñadas para mejorar la gestión de datos científicos y asegurar que sean:
+  - Fáciles de encontrar.
+  - Accesibles.
+  - Interoperables.
+  - Reusables.
+- Las herramientas de Ciencia Abierta facilitan la transparencia en la investigación y respaldan prácticas escalables y responsables.
+
+<!-- 🟨 ACTUALIZAR EN CADA EPISODIO: enlace o DOI de la presentación correspondiente. -->
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Retomá las tres ideas principales de esta segunda parte:
+
+- Los principales productos de la Ciencia Abierta son los datos, el código, el software y los resultados.
+- Los principios FAIR orientan la gestión de los productos de investigación para que sean fáciles de encontrar, accesibles, interoperables y reusables.
+- Las herramientas de Ciencia Abierta facilitan la transparencia y respaldan prácticas responsables.
+
+Las notas de la presentación también mencionan los planes de Ciencia Abierta como un mapa que orienta la incorporación de estos principios en cada etapa de una investigación.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Ejemplos de Ciencia Abierta hecha en español
+
+| Área | Ejemplos |
+|---|---|
+| **Acceso abierto a las publicaciones** | [SciELO —Biblioteca Científica Electrónica en Línea—](https://scielo.org/es) y [LA Referencia —Red Latinoamericana para la Ciencia Abierta—](https://www.lareferencia.info/es/). |
+| **Datos científicos abiertos** | [Repositorio de Datos de Investigación del CONICET, Argentina](https://datosdeinvestigacion.conicet.gov.ar/) y [Redata —Repositorio de Datos Abiertos de Investigación, Uruguay—](https://www.anii.org.uy/noticias/321/redata-el-nuevo-repositorio-de-datos-abiertos-de-investigacion-de-anii/). |
+| **Ciencia ciudadana** | Capítulos locales de iNaturalist, como [Naturalista, México](https://mexico.inaturalist.org/), y [CoAct Riachuelo —ciencia ciudadana social para la acción colectiva, Argentina—](https://farn.org.ar/coact-riachuelo-una-iniciativa-a-favor-de-la-justicia-ambiental-para-mas-de-6-millones-de-personas/). |
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Orientaciones para facilitar
+
+Presentá estos casos como ejemplos ilustrativos de la diversidad de propuestas, actores involucrados y productos que forman parte del movimiento de Ciencia Abierta.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Lecturas útiles
+
+- [NASA Open Science 101 — Módulo 1](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_1/M1_readme_es.md).
+- [NASA Open Science 101 — Módulo 2](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_2/M2_readme_es.md).
+
+> **¡Aviso!** Si encontrás errores o tenés sugerencias, te invitamos a publicarlos como un *issue* en GitHub. Dar una devolución abierta es una excelente manera de contribuir a un proyecto.
+
+### Más lecturas útiles
+
+- [Recomendación de la UNESCO sobre la Ciencia Abierta](https://unesdoc.unesco.org/ark:/48223/pf0000379949_spa).
+- [El proyecto de Ciencia Abierta en un mundo desigual](https://revistas.uam.es/relacionesinternacionales/article/view/15331).
+- [Ciencia Abierta en América Latina](https://forocilac.org/wp-content/uploads/2022/03/PolicyPapers-CienciaAbierta-ES-v2.pdf).
+- [Evaluación responsable y Ciencia Abierta: agenda de reformas](https://revistas.unc.edu.ar/index.php/integracionyconocimiento/article/view/42029).
+- [Tendencias recientes en las políticas científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica](https://www.clacso.org/wp-content/uploads/2020/12/Ciencia-Abierta-1.pdf).
+
+<!-- 🟨 ACTUALIZAR EN CADA EPISODIO: reemplazar estas lecturas por las correspondientes al tema. -->
+
+## Próximos pasos
+
+Antes de finalizar:
+
+1. Completaremos la encuesta de valoración.
+2. Realizaremos la evaluación para la certificación de NASA.
+3. Revisaremos el tema del próximo encuentro.
+
+### Crítica constructiva
+
+Una crítica constructiva:
+
+1. Es positiva.
+2. Es específica.
+3. Sugiere próximos pasos.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Orientaciones para facilitar
+
+Antes de presentar la encuesta, recordá que una crítica constructiva debe ser positiva, específica y proponer un próximo paso.
+
+La nota original utiliza una escena de Mafalda para contrastar una opinión general y negativa sobre la sopa con una devolución más constructiva: reconocer primero algo valioso y luego sugerir un cambio concreto, como reemplazar las verduras por fideos de letras.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## Encuesta de valoración
+
+Valoramos tu opinión. Completá nuestra encuesta anónima:
+
+[Accedé a la encuesta de valoración](https://tinyurl.com/HCA-Encuesta1).
+
+**Duración: 5 minutos.**
+
+Cuando termines, avisanos por el chat.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!-- 🟨 ACTUALIZAR EN CADA EPISODIO: enlace de la encuesta de valoración. -->
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Orientaciones para facilitar
+
+Invitá al grupo a practicar lo conversado mediante una devolución breve que ayude a mejorar la formación.
+
+Aclarales que no necesitan dedicar mucho tiempo a la encuesta, pero que sus respuestas son fundamentales para aprender del proceso. Todas las sugerencias se leen y se tienen en cuenta: algunas permiten introducir cambios inmediatos y otras orientan mejoras a más largo plazo.
+
+**Música sugerida:** Los Bosques (Uruguay), recomendación de Flo Grattarola (ALTaCA).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## Certificación NASA: evaluación del módulo
+
+Completá la evaluación correspondiente a este encuentro:
+
+[Accedé a la evaluación del módulo](https://tinyurl.com/HCA-Eval1).
+
+**Duración: 15 minutos.**
+
+Si tenés dudas, podés consultar levantando la mano o escribiendo en el chat.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!-- 🟨 ACTUALIZAR EN CADA EPISODIO: enlace de la evaluación correspondiente. -->
+
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Destiná entre 10 y 15 minutos a completar el formulario de 10 preguntas. Explicá que esta evaluación permite revisar los aprendizajes del encuentro y avanzar en la certificación de NASA Open Science 101.
+
+**Música sugerida:** Buscabulla (Puerto Rico).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Herramientas de Ciencia Abierta
+
+El recorrido de la formación se organiza en cuatro encuentros:
+
+| Encuentro | Tema |
+|---|---|
+| **1** | Qué, por qué y cómo de la Ciencia Abierta. |
+| **2** | Cómo usar, crear y compartir datos abiertos. |
+| **3** | Cómo usar, crear y compartir código abierto. |
+| **4** | Cómo usar, crear y compartir resultados abiertos. |
+
+En el próximo encuentro trabajaremos sobre **cómo usar, crear y compartir datos abiertos**.
+
+<!-- 🟨 ACTUALIZAR EN CADA EPISODIO: indicar cuál es el próximo encuentro; en el episodio 4, reemplazar por un cierre del recorrido. -->
+
+## ¡Muchas gracias!
+
+Este encuentro fue posible gracias a **NASA Open Science** y **Code for Science & Society (CS&S)**.
+
+**Referencia sugerida:** [https://doi.org/10.5281/zenodo.18890057](https://doi.org/10.5281/zenodo.18890057).
+
+<!-- 🟨 ACTUALIZAR EN CADA EPISODIO: DOI de la presentación correspondiente. -->
+
+Podés encontrar a MetaDocencia como **@metadocencia** en:
+
+- [Instagram](https://www.instagram.com/metadocencia/).
+- [LinkedIn](https://www.linkedin.com/company/metadocencia/).
+- [GitHub](https://github.com/MetaDocencia).
+- [YouTube](https://www.youtube.com/metadocencia).
+- [X/Twitter](https://twitter.com/metadocencia).
+- [Facebook](https://www.facebook.com/metadocencia).
+- [Mastodon](https://floss.social/@MetaDocencia).
+- [Bluesky](https://bsky.app/profile/metadocencia.org).
