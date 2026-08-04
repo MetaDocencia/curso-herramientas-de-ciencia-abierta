@@ -73,6 +73,7 @@ contact: 'infraestructura@metadocencia.org'
 episodes: 
 - introduction.Rmd
 - fundamentos.Rmd
+- datosabiertos.Rmd
 
 # Information for Learners
 learners: 
