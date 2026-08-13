@@ -1354,8 +1354,6 @@ Estamos llegando al final del encuentro. Antes de despedirnos, todavía nos qued
 
 ::::::::::::::::::::::::::::::::: instructor
 
-### Orientaciones para facilitar
-
 ¡Oficialmente hemos llegado al final de la formación! Gracias por acompañarnos durante estos encuentros.
 
 Antes de continuar con las últimas actividades, invita a quienes deseen aparecer en la foto grupal a encender sus cámaras.
@@ -1471,3 +1469,157 @@ Para compartir en el chat:
 [Conoce la Red de Comunidades Amigas de MetaDocencia](https://metadocencia.org/)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!-- ⚠️ ACTUALIZAR ANTES DE CADA COHORTE:
+revisar las fechas límite y los plazos indicados. -->
+
+## Certificación de MetaDocencia
+
+¿Cumpliste alguno de estos requisitos?
+
+- Asististe sincrónicamente a **3 de los 4 encuentros**.
+- Completaste **3 de los 4 cuestionarios de NASA** hasta el **6 de julio inclusive**.
+
+:::::::::::::::::::::::::::::: instructor
+
+Hablemos de la certificación.
+
+Esperamos que lo más importante de esta formación haya sido encontrarnos, conocernos y aprender en comunidad. También sabemos que las certificaciones pueden ser relevantes, por lo que repasaremos los requisitos y los próximos pasos.
+
+Recibirán el certificado de asistencia de MetaDocencia quienes hayan cumplido alguno de estos criterios:
+
+- Haber asistido de forma sincrónica a por lo menos tres de los cuatro encuentros.
+- Haber completado al menos tres de los cuatro cuestionarios de NASA dentro del plazo establecido.
+
+Esto se aplica también a quienes no hayan completado o aprobado las cuatro evaluaciones requeridas para obtener la certificación de NASA.
+
+El certificado de asistencia de MetaDocencia se enviará por correo electrónico en un plazo de dos semanas a partir de la finalización de la formación.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Certificación de NASA
+
+Para obtener la certificación:
+
+- Completa y aprueba las **cuatro evaluaciones**.
+- Alcanza un mínimo de **7 respuestas correctas** en cada evaluación.
+- Completa las evaluaciones hasta el **6 de julio inclusive**.
+
+<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `recorrido-certificacion-nasa.png` en `episodes/fig/` 🟨🟨🟨 -->
+
+![Recorrido de los cuatro encuentros y certificación de NASA Ciencia Abierta 101.](fig/recorrido-certificacion-nasa.png){alt='Diagrama del recorrido formativo. Incluye cuatro encuentros sobre fundamentos de la Ciencia Abierta, Datos Abiertos, Código Abierto y Resultados Abiertos, junto con las insignias correspondientes y la certificación final de NASA Ciencia Abierta 101.'}
+
+:::::::::::::::::::::::::::::: instructor
+
+¡Felicitaciones a quienes ya completaron y aprobaron las cuatro evaluaciones con un mínimo de siete respuestas correctas en cada una!
+
+Si todavía les falta completar alguna evaluación, recuerden que pueden hacerlo hasta el 6 de julio inclusive.
+
+A partir del 8 de julio, MetaDocencia enviará a NASA los datos necesarios para gestionar los certificados:
+
+- Nombre.
+- Apellido.
+- ORCID.
+
+La emisión de los certificados estará a cargo de NASA y puede demorar.
+
+Si alguna persona cumple con todos los requisitos y no recibe su certificado antes del 29 de julio, puede escribir a:
+
+[formacion@metadocencia.org](mailto:formacion@metadocencia.org)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Cómo recibir y registrar tu certificado
+
+El certificado de NASA llegará a través de **Credly**.
+
+También puedes registrarlo manualmente en tu perfil de **ORCID**.
+
+[Ver el instructivo sobre Credly y ORCID](https://www.youtube.com/watch?v=hhzC1sbrnGk)
+
+<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `video-certificado-credly-orcid.png` en `episodes/fig/` 🟨🟨🟨 -->
+
+[![Captura del video sobre cómo recibir el certificado mediante Credly y registrarlo en ORCID.](fig/video-certificado-credly-orcid.png){alt='Captura de un video instructivo que muestra el ingreso a Credly y el registro de una certificación en un perfil de ORCID.'}](https://www.youtube.com/watch?v=hhzC1sbrnGk)
+
+:::::::::::::::::::::::::::::: instructor
+
+El certificado de NASA llegará mediante Credly, una plataforma de certificaciones e insignias digitales.
+
+Reproduce el video para mostrar qué deben hacer las personas participantes cuando reciban el correo de Credly.
+
+Quienes lo deseen también pueden registrar manualmente el certificado en ORCID:
+
+1. Ingresar en su cuenta de ORCID.
+2. Buscar la sección **Educación y cualificaciones**.
+3. Seleccionar **Añadir** y luego **Agregar cualificación**.
+4. Completar el nombre de la organización emisora.
+5. Escribir el título exacto del certificado.
+6. Ingresar en Credly y abrir la insignia.
+7. Seleccionar **Share** y copiar el enlace público.
+8. Pegar esa dirección en el campo correspondiente de ORCID.
+9. Guardar los cambios.
+
+Para que el certificado pueda verificarse mediante el enlace, el perfil y la insignia de Credly deben estar configurados como públicos.
+
+Aclara que incorporar el certificado a ORCID es opcional.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::: challenge
+
+## Certificación NASA: evaluación del módulo
+
+**Duración: 15 minutos**
+
+Completa la evaluación del módulo:
+
+[https://tinyurl.com/HCA-Eval4](https://tinyurl.com/HCA-Eval4)
+
+¿Tienes dudas? Puedes consultar levantando la mano o escribiendo en el chat.
+
+¿Terminaste? Puedes salir de la reunión.  
+¡Hasta la próxima!
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::: instructor
+
+Música:
+
+- Morbo y Mambo, *Camille*.
+- Hermanos Gutiérrez, *Low Sun* o *Abuelita*.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## ¡Muchas gracias!
+
+Gracias por participar, compartir experiencias y construir conocimiento en comunidad durante estos cuatro encuentros.
+
+**Referencia sugerida:**
+
+[https://doi.org/10.5281/zenodo.18894630](https://doi.org/10.5281/zenodo.18894630)
+
+Este encuentro fue posible gracias al apoyo de:
+
+- NASA Open Science.
+- Code for Science & Society (CS&S).
+
+[MetaDocencia](https://metadocencia.org/) · `@metadocencia`
+
+<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `logos-cierre-metadocencia-nasa-css.png` en `episodes/fig/` 🟨🟨🟨 -->
+
+![Logotipos de MetaDocencia, NASA Open Science y Code for Science & Society.](fig/logos-cierre-metadocencia-nasa-css.png){alt='Logotipos de MetaDocencia, NASA Open Science y Code for Science & Society, organizaciones que hicieron posible la formación.'}
+
+:::::::::::::::::::::::::::::: instructor
+
+En nombre del equipo de MetaDocencia, agradece a las personas participantes por su presencia, sus preguntas y las experiencias compartidas durante la formación.
+
+Invítalas a continuar los intercambios en los espacios comunitarios de MetaDocencia y a mantenerse en contacto para conocer nuevas formaciones, recursos y oportunidades de participación.
+
+Recuerda que este encuentro fue posible gracias al apoyo de NASA Open Science y Code for Science & Society.
+
+Finalmente, comparte la referencia de la presentación:
+
+[https://doi.org/10.5281/zenodo.18894630](https://doi.org/10.5281/zenodo.18894630)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
