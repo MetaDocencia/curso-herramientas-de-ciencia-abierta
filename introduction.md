@@ -1,7 +1,7 @@
 ---
 title: 'Introducción'
 teaching: 10
-exercises: 2
+exercises: 0
 ---
 
 ## Descripción del curso
@@ -9,6 +9,8 @@ exercises: 2
 MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comunidades hispanohablantes a conocer y aplicar buenas prácticas de la **Ciencia Abierta**.
 
 **Herramientas de Ciencia Abierta** es un curso virtual de formación de **4 semanas**. Se enfoca en compartir conocimiento desde una mirada local y en facilitar la implementación de principios y prácticas de Ciencia Abierta a partir del encuentro entre pares, del intercambio de recursos comprobados y de referencias accesibles y del análisis de situaciones y ejemplos vinculados a las experiencias de comunidades hispanohablantes.
+
+Los materiales se basan en el curso Open Science 101 de NASA y fueron contextualizados al español mediante un proceso colaborativo impulsado por MetaDocencia.
 
 ## Motivaciones para participar
 
@@ -48,6 +50,8 @@ Los encuentros incluyen actividades destinadas a promover el intercambio y la di
 
 En el primer encuentro construiremos una comprensión compartida de la Ciencia Abierta y conoceremos la modalidad de trabajo, así como los canales de comunicación y colaboración. En los siguientes encuentros profundizaremos en prácticas y herramientas relacionadas con los datos, el código y los resultados abiertos.
 
+![Recorrido de los cuatro encuentros de Herramientas de Ciencia Abierta.](fig/recorrido-herramientas-ciencia-abierta.png){alt='Diagrama del recorrido del curso. Una insignia general de Herramientas y Recursos Abiertos se conecta con cuatro insignias correspondientes a Fundamentos de la Ciencia Abierta, Datos Abiertos, Código Abierto y Resultados Abiertos. El recorrido culmina en la insignia NASA Ciencia Abierta 101.'}
+
 Seleccioná el título de cada encuentro para consultar su hoja de ruta, que incluye los contenidos y el cronograma del módulo.
 
 | Semana y duración | Encuentro | ¿Qué abordaremos? |
@@ -66,7 +70,7 @@ Quienes participen del curso podrán acceder a una **doble certificación**:
 Para obtener el certificado de conocimiento de los contenidos del [Curso de Introducción a la Ciencia Abierta de la NASA](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101), será necesario responder correctamente al 70% de las preguntas de los cuestionarios administrados al final de cada encuentro. Los formularios estarán disponibles en español y la última parte de los encuentros sincrónicos se dedicará a responderlos. Se ofrecerá la posibilidad de completarlos de forma asincrónica (hasta 7 días corridos luego de la fecha del último encuentro) y de rehacerlos en el caso de no obtenerse el 70% de preguntas correctas.
 
 ### Certificación MetaDocencia
-Además, entregaremos un certificado de asistencia de MetaDocencia a quienes participen activamente, ya sea asistiendo de forma sincrónica a 3 de los 4 encuentros o completando 3 de los 4 cuestionarios detallados en el párrafo anterior, al menos 7 días corridos después de la fecha del último encuentro sincrónico.
+Además, entregaremos un certificado de asistencia de MetaDocencia a quienes participen activamente, ya sea asistiendo de forma sincrónica a 3 de los 4 encuentros o completando 3 de los 4 cuestionarios detallados en el párrafo anterior, hasta 7 días corridos después de la fecha del último encuentro.
 
 ## Cómo participar
 
@@ -86,6 +90,8 @@ Si necesitás ayuda para ingresar a Slack o tenés alguna consulta sobre la form
 
 ## Sobre MetaDocencia
 
+![Actividad presencial organizada por MetaDocencia.](fig/metadocencia-construccion-de-comunidad.png){alt='Dos fotografías de una actividad presencial de MetaDocencia. En ellas se observa a personas reunidas, conversando y participando de una instancia de formación colaborativa.'}
+
 MetaDocencia es una organización sin fines de lucro que trabaja para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
 
 Construimos capacidades científicas y técnicas de forma responsable y con mirada local, mediante la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
@@ -103,6 +109,8 @@ A lo largo de la formación conoceremos algunas de estas comunidades y los recur
 [Conocé nuestra Red de Comunidades Amigas y las organizaciones que acompañan a MetaDocencia](https://metadocencia.org/quienes-somos/)
 
 ## ¡Sírvete sin culpa!
+
+[![Licencia Creative Commons Atribución 4.0 Internacional.](fig/cc-by-4-0.png){alt='Marca de la licencia Creative Commons Atribución 4.0 Internacional.'}](https://creativecommons.org/licenses/by/4.0/deed.es)
 
 ¿Te viene bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles de forma gratuita bajo la licencia **CC BY 4.0**. Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas; lo único que pedimos a cambio es que incluyas una referencia a esta página web.
 
