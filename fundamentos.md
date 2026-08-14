@@ -5,35 +5,16 @@ teaching: 100
 exercises: 40
 ---
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
 ## Antes de empezar:
+
 - Bienvenida
-- Este encuentro va a ser grabado y si bien nos encantaría que estén con las cámaras prendidas para poder interactuar de forma más fluida, si prefieren, pueden apagarlas. Nuestro equipo de apoyo va a estar iniciando la grabación ahora.
-- Esta presentación que vamos a usar tiene una licencia CC-BY, lo que permite que puedan reusarla libremente mencionando la fuente. 
+- Este encuentro va a ser grabado y si bien nos encantaría que estén con las cámaras prendidas para poder interactuar de forma más fluida, si prefieren, pueden apagarlas. Nuestro equipo de apoyo va a iniciar la grabación ahora.
+- Este material tiene una licencia CC-BY, lo que permite reusarla libremente, mencionando la fuente. 
 - Todos los espacios de MetaDocencia se rigen por nuestras [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195). En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
 - Para participar: pide la palabra o usa el chat y silencialo al terminar de hablar
 - Pide permiso antes de tomar registros de las personas presentes en este encuentro.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::: questions
-
-- ¿Qué caracteriza a la Ciencia Abierta y qué beneficios puede aportar?
-- ¿Qué barreras y preocupaciones pueden surgir al abrir procesos y productos de investigación?
-- ¿Cómo orientan los principios FAIR la gestión y el intercambio responsable de los productos de investigación?
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::: objectives
-
-Al finalizar este episodio, quienes participan podrán:
-
-- Explicar qué es la Ciencia Abierta y relacionarla con la reproducibilidad, la colaboración y la participación.
-- Reconocer barreras sociales, institucionales y de infraestructura desde una perspectiva situada.
-- Analizar las preocupaciones frecuentes relacionadas con errores, datos sensibles, malinterpretaciones y apropiaciones.
-- Identificar los componentes de los principios FAIR y su aplicación en datos, código y otros productos de investigación.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::: discussion
 
