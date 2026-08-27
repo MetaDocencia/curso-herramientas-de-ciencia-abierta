@@ -17,7 +17,7 @@ carpentry: 'metadocencia'
 # carpentry_description: "Custom Carpentry"
 
 # Overall title for pages.
-title: 'Título de lección'
+title: 'Herramientas de Ciencia Abierta'
 
 # Alt-text description of the lesson.
 carpentry_description: 'MetaDocencia'
@@ -26,10 +26,10 @@ carpentry_description: 'MetaDocencia'
 varnish: 'metadocencia/varnish'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2025-06-13'
+created: ''
 
 # Comma-separated list of keywords for the lesson
-keywords: 'MetaDocencia, Lección'
+keywords: 'MetaDocencia, Ciencia Abierta, Datos Abiertos, Código Abierto, Resultados Abiertos'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -39,7 +39,7 @@ life_cycle: ''
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://example.com/template-source/lesson-example'
+source: 'https://github.com/MetaDocencia/curso-herramientas-de-ciencia-abierta'
 
 # Default branch of your lesson
 branch: 'main'
@@ -74,6 +74,8 @@ episodes:
 - introduction.Rmd
 - fundamentos.Rmd
 - datosabiertos.Rmd
+- codigoabierto.Rmd
+- resultadosabiertos.Rmd
 
 # Information for Learners
 learners: 
