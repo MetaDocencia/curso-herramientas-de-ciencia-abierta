@@ -20,7 +20,7 @@ carpentry: 'metadocencia'
 title: 'Herramientas de Ciencia Abierta'
 
 # Alt-text description of the lesson.
-carpentry_description: 'MetaDocencia'
+carpentry_description: 'Herramientas de Ciencia Abierta es un curso virtual de formación de 4 semanas. Se enfoca en compartir conocimiento desde una mirada local y en facilitar la implementación de principios y prácticas de Ciencia Abierta.'
 
 # varnish
 varnish: 'metadocencia/varnish'
