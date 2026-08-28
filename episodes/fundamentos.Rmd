@@ -64,8 +64,6 @@ Comenzar a aplicar prácticas de Ciencia Abierta, aunque sea de a poco, puede ap
 - Democratiza el acceso al conocimiento y promueve la participación ciudadana.
 - Aumenta la transparencia del trabajo y su reproducibilidad.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `beneficios-ciencia-abierta.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ilustración sobre los beneficios de la Ciencia Abierta.](fig/beneficios-ciencia-abierta.jpg){alt='Personas colaboran alrededor de una estructura abierta y conectada que representa el intercambio de conocimientos y recursos.'}
 
 *Fuente: The Turing Way Community & Scriberia (2022), [*Illustrations from The Turing Way*](https://doi.org/10.5281/zenodo.3332807), CC BY 4.0.*
@@ -91,8 +89,6 @@ La reproducibilidad consiste en obtener los mismos resultados utilizando:
 - Los mismos datos de entrada.
 - El mismo código o los mismos pasos de análisis.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `reproducibilidad.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ilustración sobre reproducibilidad.](fig/reproducibilidad.png){alt='Una persona sigue un recorrido que conecta datos, código y resultados documentados para reproducir un análisis.'}
 
 *Fuente: The Turing Way Community & Scriberia (2022), [*Illustrations from The Turing Way*](https://doi.org/10.5281/zenodo.3332807), CC BY 4.0.*
@@ -110,8 +106,6 @@ Para que un proyecto sea reproducible, necesitamos hacer públicos productos com
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Proceso, productos y resultados de investigación
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `proceso-productos-resultados-investigacion.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Proceso, productos y resultados de investigación.](fig/proceso-productos-resultados-investigacion.png){alt='Línea de tiempo de un proyecto de investigación que comienza con la ideación, continúa con la planificación, la recolección y exploración de datos, y finaliza con el reporte y la publicación. En cada etapa se producen objetos que pueden compartirse, como propuestas, planes, materiales de formación, planes de gestión, datos, código, archivos y publicaciones.'}
 
@@ -168,8 +162,6 @@ Podemos reconocer tres tipos de barreras:
 - Sociales.
 - Institucionales.
 - De infraestructura.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `barreras-ciencia-abierta.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Ilustración sobre barreras para las prácticas en Ciencia Abierta.](fig/barreras-ciencia-abierta.jpg){alt='Una persona intenta avanzar por un recorrido con obstáculos, desniveles y barreras, como representación de las dificultades que pueden surgir al practicar la Ciencia Abierta.'}
 
@@ -477,8 +469,6 @@ Por ejemplo, una misma persona puede figurar como «N. Palópoli» o «Nicolás 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `ejemplo-perfil-orcid.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ejemplo de un perfil de ORCID.](fig/ejemplo-perfil-orcid.png){alt='Captura de pantalla de un perfil de ORCID identificado mediante un código numérico persistente. El perfil reúne información como empleo, educación, actividades profesionales, financiación y obras.'}
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -583,8 +573,6 @@ Finalmente, para que un producto sea considerado accesible, la información que 
 ¿Cómo se sienten ahora? ¿Cómo venimos?
 
 Escribí en el chat el número de gatito que te representa ahora.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `estado-gatitos.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Escala visual de estados de ánimo representados por nueve gatos.](fig/estado-gatitos.jpg){alt='Cuadrícula de nueve fotografías numeradas del 1 al 9. Cada gato muestra una expresión diferente para que quienes participan elijan la que mejor representa cómo se sienten.'}
 
