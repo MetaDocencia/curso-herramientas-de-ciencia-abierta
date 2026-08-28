@@ -89,8 +89,6 @@ Un valor o registro que describe una observación del mundo, pero que por sí so
 
 Cualquier tipo de información que se recolecta, observa o crea en el contexto de una investigación.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `que-es-un-dato.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ilustración sobre datos y contexto.](fig/que-es-un-dato.jpg){alt='Una persona examina distintas piezas de información con una lupa, como representación de la observación, la recolección y la contextualización de datos.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -284,8 +282,6 @@ Las personas autoras conservan sus derechos pero conceden permisos específicos 
 - NC - No permite uso comercial
 - ND - No permite modificaciones
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `espectro-licencias-creative-commons.svg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Espectro de licencias Creative Commons.](fig/espectro-licencias-creative-commons.svg){alt='Espectro que ordena CC0 y las licencias Creative Commons desde las menos restrictivas hasta las más restrictivas, según los permisos para compartir, remixar y comercializar.'}
 
 *Fuente: [Creative Commons Espectro Licencias-ESP](https://commons.wikimedia.org/wiki/File:Creative_Commons_Espectro_Licencias-ESP.svg).*
@@ -441,8 +437,6 @@ Estar acompañado de un historial de cambios y versiones (lo vamos a ver en más
 - Ciencia ciudadana
 - Intercambio de conocimiento
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `beneficios-datos-abiertos-sociedad.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ilustración sobre los beneficios sociales de los datos abiertos.](fig/beneficios-datos-abiertos-sociedad.jpg){alt='Una mano recibe información desde una estructura tecnológica mientras otras piezas conectadas representan el intercambio de conocimiento y sus efectos sociales.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -473,8 +467,6 @@ Por último y en general, los datos abiertos favorecen el intercambio de conocim
 - Tus datos pueden ser citados y obtendrás crédito por ello.
 - Las publicaciones que incluyen enlaces a datos se citan más ([McKiernan, et al. (2016)](https://elifesciences.org/articles/16800))
 - Apoyo a la financiación y la comunicación de tu trabajo.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `beneficios-datos-abiertos-investigacion.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Ilustración sobre los beneficios de los datos abiertos para la investigación.](fig/beneficios-datos-abiertos-investigacion.jpg){alt='Varias personas consultan, comparten y reutilizan un documento conectado, como representación del acceso futuro, la citación y la colaboración.'}
 
@@ -507,8 +499,6 @@ La implementación de buenas prácticas para la ciencia abierta puede fortalecer
 ¿Cómo venimos?
 
 Escribe en el chat el número de gatito que te representa ahora.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `estado-gatitos.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Escala visual de estados de ánimo representados por nueve gatos.](fig/estado-gatitos.jpg){alt='Cuadrícula de nueve fotografías numeradas del 1 al 9. Cada gato muestra una expresión diferente para que quienes participan elijan la que mejor representa cómo se sienten.'}
 
@@ -603,8 +593,6 @@ Argos (OpenAIRE, Europa). Está más vinculada al ecosistema de ciencia abierta 
 
 ## DMP online
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `dmp-online-crear-plan.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Interfaz de DMPonline para crear un nuevo plan.](fig/dmp-online-crear-plan.png){alt='Captura de pantalla de DMPonline con los campos para ingresar el título del proyecto, indicar si es un proyecto de prueba y seleccionar una plantilla de Plan de Gestión de Datos.'}
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -622,8 +610,6 @@ La lógica de DMPonline es bastante lineal y administrativa:
 - Y al final se genera un documento exportable
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `dmp-online-productos-investigacion.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Interfaz de DMPonline para registrar productos de investigación.](fig/dmp-online-productos-investigacion.png){alt='Captura de pantalla de la sección Research outputs de un proyecto de prueba en DMPonline, con campos para DOI, tipo, título, descripción, datos sensibles, información personal identificable y repositorios.'}
 
@@ -686,8 +672,6 @@ También es importante pensar al Plan de gestión de datos como un documento que
 ## ¿Qué datos?
 
 Los formatos y estándares elegidos deben asegurar compatibilidad y facilidad de uso
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `formatos-datos-compatibilidad.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Ilustración sobre el uso de formatos de datos compatibles.](fig/formatos-datos-compatibilidad.jpg){alt='Personas trabajan con archivos y dispositivos diferentes, como representación de la necesidad de elegir formatos y estándares compatibles y fáciles de usar.'}
 
@@ -811,8 +795,6 @@ Una persona aliada clave en todo este proceso es la bibliotecaria o el bibliotec
 | **DOI automático** | A veces | Sí | Sí | Sí |
 | **Costo** | Gratuito | Gratuito (con límites) | Gratuito (con límites) | Gratuito para descarga; cobra curación |
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `comparacion-repositorios.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Comparación entre repositorios institucionales, Zenodo, Figshare y Dryad.](fig/comparacion-repositorios.png){alt='Tabla comparativa que presenta quién gestiona cada repositorio, las disciplinas que abarca, si asigna un DOI automáticamente y sus costos.'}
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -847,8 +829,6 @@ Cuando existe un repositorio disciplinar establecido en el campo, suele ser la m
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Revisión por pares
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `revision-pares-datasets.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Flujo de revisión por pares de un conjunto de datos.](fig/revision-pares-datasets.png){alt='Un archivo CSV se deposita en Dryad y recibe un DOI. Ese identificador se utiliza en PREreview para solicitar una revisión comunitaria, que a su vez recibe un DOI y puede citarse.'}
 
