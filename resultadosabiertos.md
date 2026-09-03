@@ -56,8 +56,6 @@ Para ordenar la interacción, pide que quienes quieran participar levanten la ma
 - **Julián Buede**  
   Equipo de Comunicación
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `equipo-encuentro-4.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Equipo a cargo del Encuentro 4.](fig/equipo-encuentro-4.png){alt='Retratos de Jesica Formoso, Nicolás Palopoli, Irene Vazano y Julián Buede, acompañados por sus nombres y roles en MetaDocencia.'}
 
 :::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -74,8 +72,6 @@ Quienes guían el encuentro se presentan y mencionan a las personas que conforma
 | **Encuentro 2** | Cómo usar, crear y compartir Datos Abiertos |
 | **Encuentro 3** | Cómo usar, crear y compartir Código Abierto |
 | **Encuentro 4** | Cómo usar, crear y compartir Resultados Abiertos |
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `recorrido-herramientas-ciencia-abierta.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Recorrido de los cuatro encuentros sobre herramientas de Ciencia Abierta.](fig/recorrido-herramientas-ciencia-abierta.png){alt='Recorrido de cuatro encuentros: fundamentos de la Ciencia Abierta, Datos Abiertos, Código Abierto y Resultados Abiertos. El Encuentro 4 aparece destacado.'}
 
@@ -100,8 +96,6 @@ Cuando pensamos en resultados de investigación, muchas veces pensamos únicamen
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Resultados de investigación
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `resultados-proceso-investigacion.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Resultados generados durante las diferentes etapas de una investigación.](fig/resultados-proceso-investigacion.png){alt='Línea de tiempo del proceso de investigación. Incluye las etapas de ideación, planificación, recolección y exploración de datos, preservación, reporte y publicación. Debajo se muestran resultados como propuestas, planes de gestión, materiales de formación, datos sin procesar, metadatos, código, cuadernos, archivos, artículos, conferencias, blogs, videos y publicaciones en redes sociales.'}
 
@@ -136,8 +130,6 @@ Además, las formas alternativas de comunicación suelen tener más posibilidade
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Ejemplo de Resultados Abiertos en un artículo
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `articulo-resultados-abiertos-osf.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Artículo acompañado por sus datos y métodos analíticos abiertos.](fig/articulo-resultados-abiertos-osf.png){alt='Capturas del artículo “Depresión en adolescentes peruanos durante pandemia: un análisis de redes”, publicado en la Revista Argentina de Ciencias del Comportamiento. Se muestran sus declaraciones de disponibilidad de datos y métodos analíticos, además del proyecto asociado en Open Science Framework, que contiene una matriz de datos en formato XLSX y el código de análisis en R.'}
 
@@ -300,8 +292,6 @@ Estas preguntas nos ayudan a utilizar recursos abiertos de manera crítica y res
 
 Una publicación de acceso abierto puede ser leída por cualquier persona, de manera gratuita y sin restricciones de acceso.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `simbolo-acceso-abierto.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Símbolo de acceso abierto.](fig/simbolo-acceso-abierto.png){alt='Candado abierto de color naranja acompañado por el texto Open Access.'}
 
 :::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -320,9 +310,6 @@ Sin embargo, no todas las publicaciones llegan al acceso abierto por el mismo ca
 
 Las personas autoras pagan el costo de publicación.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: usar `simbolo-acceso-abierto.png` de `episodes/fig/` 🟨🟨🟨 -->
-
-![Símbolo de acceso abierto.](fig/simbolo-acceso-abierto.png){alt='Candado abierto de color naranja acompañado por el texto Open Access.'}
 
 :::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -346,10 +333,6 @@ Algunas editoriales ofrecen descuentos o exenciones para determinados países y,
 - Una copia del manuscrito se deposita gratuitamente en un repositorio abierto.
 
 Para buscar repositorios: [Registry of Open Access Repositories (ROAR)](https://roar.eprints.org/)
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: usar `simbolo-acceso-abierto.png` de `episodes/fig/` 🟨🟨🟨 -->
-
-![Símbolo de acceso abierto.](fig/simbolo-acceso-abierto.png){alt='Candado abierto de color naranja acompañado por el texto Open Access.'}
 
 :::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -381,10 +364,6 @@ Es gratuita tanto para quien publica como para quien lee.
 
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
 - [SciELO](https://scielo.org/es/)
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: usar `simbolo-acceso-abierto.png` de `episodes/fig/` 🟨🟨🟨 -->
-
-![Símbolo de acceso abierto.](fig/simbolo-acceso-abierto.png){alt='Candado abierto de color naranja acompañado por el texto Open Access.'}
 
 :::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -490,8 +469,6 @@ Algunos servidores de preprints son:
 - [SSRN](https://www.ssrn.com/)
 - [SciELO Preprints](https://preprints.scielo.org/index.php/scielo)
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `servidores-preprints.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Servidores de preprints de diferentes disciplinas.](fig/servidores-preprints.png){alt='Logotipos de bioRxiv, medRxiv, arXiv, SSRN y SciELO Preprints.'}
 
 :::::::::::::::::::::::::::::::::::::::: instructor
@@ -550,9 +527,6 @@ Para compartir en el chat:
 > - Qué versión del documento se permite depositar.
 > - A partir de qué momento puede estar disponible públicamente.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: usar `servidores-preprints.png` de `episodes/fig/` 🟨🟨🟨 -->
-
-![Servidores de preprints de diferentes disciplinas.](fig/servidores-preprints.png){alt='Logotipos de bioRxiv, medRxiv, arXiv, SSRN y SciELO Preprints.'}
 
 :::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -612,8 +586,6 @@ Permite organizar y referenciar los distintos resultados de un proyecto.
 - Incluir, para cada elemento, una descripción, la forma de citarlo y su identificador persistente.
 - Organizar cada elemento como un componente del proyecto.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `logo-osf.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Logotipo de Open Science Framework.](fig/logo-osf.png){alt='Logotipo de Open Science Framework, compuesto por círculos azules conectados y la sigla OSF.'}
 
 :::::::::::::::::::::::::::::::::::::::: instructor
@@ -642,10 +614,6 @@ Consiste en documentar y hacer público el diseño de un estudio antes de comenz
 - Muestra
 - Procedimiento
 - Análisis de datos
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: usar `logo-osf.png` de `episodes/fig/` 🟨🟨🟨 -->
-
-![Logotipo de Open Science Framework.](fig/logo-osf.png){alt='Logotipo de Open Science Framework, compuesto por círculos azules conectados y la sigla OSF.'}
 
 :::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -689,8 +657,6 @@ Algunos ejemplos son:
 - Zotero
 - Mendeley
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `gestores-referencias.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ejemplos de gestores de referencias bibliográficas.](fig/gestores-referencias.png){alt='Logotipos de los gestores de referencias bibliográficas EndNote, Zotero y Mendeley.'}
 
 :::::::::::::::::::::::::::::::::::::::: instructor
@@ -714,8 +680,6 @@ Nos centraremos en Zotero porque es una herramienta gratuita, libre y de código
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Zotero
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `interfaz-zotero.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Interfaz del gestor de referencias Zotero.](fig/interfaz-zotero.png){alt='Captura de la interfaz de Zotero. A la izquierda se observan las colecciones de una biblioteca; en el centro, una lista de referencias; y a la derecha, los metadatos de la referencia seleccionada.'}
 
@@ -741,8 +705,6 @@ Una vez incorporado el documento, Zotero puede recuperar y almacenar informació
 - Utilizar extensiones para Word y aplicaciones web.
 - Crear bibliotecas compartidas y colaborativas.
 - Integrarse con OSF.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `logo-zotero.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Logotipo de Zotero.](fig/logo-zotero.png){alt='Nombre Zotero escrito con una letra z de color rojo.'}
 
@@ -1045,8 +1007,6 @@ La apertura no consiste en publicar todo sin condiciones, sino en tomar decision
 
 Escriban en el chat el número del gatito que mejor representa cómo se sienten en este momento.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `gatitos-estado-animo.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Nueve gatos numerados que representan diferentes estados de ánimo.](fig/gatitos-estado-animo.jpg){alt='Cuadrícula de nueve fotografías de gatos numerados del uno al nueve. Cada gato muestra una expresión o postura diferente para representar distintos estados de ánimo.'}
 
 :::::::::::::::::::::::::::::::::::: instructor
@@ -1108,8 +1068,6 @@ Muchos de los cambios culturales e institucionales vinculados con la Ciencia Abi
 
 Referencia: [https://doi.org/10.5281/zenodo.3462677](https://doi.org/10.5281/zenodo.3462677)
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `eph-con-r.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Encuesta Permanente de Hogares y paquete eph de R.](fig/eph-con-r.png){alt='Imagen de la base de datos de la Encuesta Permanente de Hogares del INDEC junto al logotipo del paquete eph de R.'}
 
 :::::::::::::::::::::::::::::::::::: instructor
@@ -1150,10 +1108,6 @@ Para compartir en el chat:
 - Artículos científicos y tesis académicas que utilizaron el paquete y los datos para analizar problemáticas sociales.
 - Difusión para la comunidad mediante Ecofemidata: indicadores, estadísticas e informes reproducibles sobre desigualdad de género.
 - Insumos para el asesoramiento en políticas públicas.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: usar `eph-con-r.png` de `episodes/fig/` 🟨🟨🟨 -->
-
-![Encuesta Permanente de Hogares y paquete eph de R.](fig/eph-con-r.png){alt='Imagen de la base de datos de la Encuesta Permanente de Hogares del INDEC junto al logotipo del paquete eph de R.'}
 
 :::::::::::::::::::::::::::::::::::: instructor
 
@@ -1348,8 +1302,6 @@ Estamos llegando al final del encuentro. Antes de despedirnos, todavía nos qued
 
 ## ¡Foto grupal!
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `icono-camara.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ícono de una cámara fotográfica.](fig/icono-camara.png){alt='Ícono de una cámara fotográfica que acompaña la invitación a participar de la foto grupal.'}
 
 ::::::::::::::::::::::::::::::::: instructor
@@ -1404,8 +1356,6 @@ Invita a aplicar estas características al completar la encuesta de valoración.
 
 Cuando termines, avísanos por el chat.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `qr-encuesta-valoracion.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Código QR de la encuesta de valoración.](fig/qr-encuesta-valoracion.png){alt='Código QR que permite acceder a la encuesta anónima de valoración de la formación.'}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1451,8 +1401,6 @@ Slack también permite mantenerse al tanto de nuevas convocatorias y formas de p
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Red de Comunidades Amigas
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `red-comunidades-amigas.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Red de Comunidades Amigas de MetaDocencia.](fig/red-comunidades-amigas.png){alt='Mosaico con los logotipos de comunidades aliadas y organizaciones que colaboran con MetaDocencia y apoyan sus iniciativas.'}
 
@@ -1504,8 +1452,6 @@ Para obtener la certificación:
 - Completa y aprueba las **cuatro evaluaciones**.
 - Alcanza un mínimo de **7 respuestas correctas** en cada evaluación.
 - Completa las evaluaciones hasta el **6 de julio inclusive**.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `recorrido-certificacion-nasa.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Recorrido de los cuatro encuentros y certificación de NASA Ciencia Abierta 101.](fig/recorrido-certificacion-nasa.png){alt='Diagrama del recorrido formativo. Incluye cuatro encuentros sobre fundamentos de la Ciencia Abierta, Datos Abiertos, Código Abierto y Resultados Abiertos, junto con las insignias correspondientes y la certificación final de NASA Ciencia Abierta 101.'}
 
@@ -1605,8 +1551,6 @@ Este encuentro fue posible gracias al apoyo de:
 - Code for Science & Society (CS&S).
 
 [MetaDocencia](https://metadocencia.org/) · `@metadocencia`
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `logos-cierre-metadocencia-nasa-css.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Logotipos de MetaDocencia, NASA Open Science y Code for Science & Society.](fig/logos-cierre-metadocencia-nasa-css.png){alt='Logotipos de MetaDocencia, NASA Open Science y Code for Science & Society, organizaciones que hicieron posible la formación.'}
 
