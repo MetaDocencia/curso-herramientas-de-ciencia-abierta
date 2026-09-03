@@ -282,7 +282,7 @@ Las personas autoras conservan sus derechos pero conceden permisos específicos 
 - NC - No permite uso comercial
 - ND - No permite modificaciones
 
-![Espectro de licencias Creative Commons.](fig/espectro-licencias-creative-commons.svg){alt='Espectro que ordena CC0 y las licencias Creative Commons desde las menos restrictivas hasta las más restrictivas, según los permisos para compartir, remixar y comercializar.'}
+![Espectro de licencias Creative Commons.](fig/espectro-licencias-creative-commons.jpg){alt='Espectro que ordena CC0 y las licencias Creative Commons desde las menos restrictivas hasta las más restrictivas, según los permisos para compartir, remixar y comercializar.'}
 
 *Fuente: [Creative Commons Espectro Licencias-ESP](https://commons.wikimedia.org/wiki/File:Creative_Commons_Espectro_Licencias-ESP.svg).*
 
