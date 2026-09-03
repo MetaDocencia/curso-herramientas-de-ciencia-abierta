@@ -104,8 +104,6 @@ Quienes hacemos ciencia escribimos código en un lenguaje de programación para:
 
 Llamamos Software a muchos fragmentos de código empaquetados junto a otro tipo de información.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `software-codigo-abierto.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ilustración sobre software y código abierto.](fig/software-codigo-abierto.jpg){alt='Ilustración que representa el intercambio, la colaboración y el registro de cambios.'}
 
 *Fuente: The Turing Way Community & Scriberia. (2024). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -128,11 +126,6 @@ Software de código abierto (open source):
 - Se distribuye sin costo
 - Permite que otras personas lo usen, modifiquen y distribuyan
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `software-codigo-abierto.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Ilustración sobre software y código abierto.](fig/software-codigo-abierto.jpg){alt='Ilustración que representa el intercambio, la colaboración y el registro de cambios.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2024). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -147,8 +140,6 @@ Un ejemplo común de software de código abierto en investigación son los paque
 ## Principios
 
 - Transparencia
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `principios-codigo-abierto.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Personas trabajando colaborativamente.](fig/principios-codigo-abierto.jpg){alt='Ilustración de distintas personas trabajando colaborativamente.'}
 
@@ -171,12 +162,6 @@ En primer lugar, buscamos que el código sea transparente para:
 - Transparencia
 - Compartir pronto y con frecuencia
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `principios-codigo-abierto.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando colaborativamente.](fig/principios-codigo-abierto.jpg){alt='Ilustración de distintas personas trabajando colaborativamente.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
-
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 En segundo lugar, se promueve el compartir temprano y compartir seguido. Esto implica compartir el código lo antes posible y de manera regular para recibir comentarios y sugerencias de otras personas. Esta retroalimentación ayuda a detectar problemas rápidamente, así como mejorar el código y probar nuevas ideas. Así, el desarrollo es más rápido y es más probable lograr buenas soluciones.
@@ -189,11 +174,6 @@ En segundo lugar, se promueve el compartir temprano y compartir seguido. Esto im
 - Compartir pronto y con frecuencia
 - Colaboración, inclusividad y comunidad
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `principios-codigo-abierto.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando colaborativamente.](fig/principios-codigo-abierto.jpg){alt='Ilustración de distintas personas trabajando colaborativamente.'}
-
-*Fuente: The Turing Way Community & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -217,8 +197,6 @@ Finalmente, las comunidades sólidas y comprometidas pueden mantener la continui
 - Reduce recursos necesarios para replicar experimentos
 - Abre nuevas oportunidades de colaboración
 - Aumenta la visibilidad de quien lo desarrolla
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `beneficios-codigo-abierto.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Comparación entre abrir y cerrar materiales.](fig/beneficios-codigo-abierto.jpg){alt='Ilustración de Scriberia. Por un lado, una cara sonriendo junto a una caja abierta de la cual sale una mano con el pulgar para arriba. Por otro lado, una cara enojada junto a una caja cerrada.'}
 
@@ -268,8 +246,6 @@ En el encuentro anterior hablamos del Plan de Ciencia Abierta en general y, más
 
 Documento que detalla cómo se va a desarrollar, gestionar, preservar, licenciar, publicar y mantener el software creado en el contexto de un proyecto de investigación.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `plan-gestion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Personas trabajando alrededor de distintos elementos vinculados con el desarrollo de software.](fig/plan-gestion-software.jpg){alt='Tres personas trabajan colaborativamente alrededor de distintos elementos, documentos y dispositivos vinculados con el desarrollo de software.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -287,12 +263,6 @@ Un Plan de Gestión de Software en investigación es un documento que detalla c�
 - ¿Dónde?
 - ¿Cómo?
 - ¿Quiénes?
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `plan-gestion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando alrededor de distintos elementos vinculados con el desarrollo de software.](fig/plan-gestion-software.jpg){alt='Tres personas trabajan colaborativamente alrededor de distintos elementos, documentos y dispositivos vinculados con el desarrollo de software.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -315,12 +285,6 @@ A medida que nuestra investigación comience a generar y compartir código, el P
 - ¿Hay que considerar políticas del financiador o regulaciones locales?
 - ¿Hay problemas de seguridad relacionados con el código?
 - ¿Cuál es la finalidad de compartir?
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `plan-gestion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando alrededor de distintos elementos vinculados con el desarrollo de software.](fig/plan-gestion-software.jpg){alt='Tres personas trabajan colaborativamente alrededor de distintos elementos, documentos y dispositivos vinculados con el desarrollo de software.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -349,12 +313,6 @@ No compartir cuando el código:
 - Esté restringido por políticas institucionales o regulaciones organizacionales
 - Incorpore propiedad intelectual
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `plan-gestion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando alrededor de distintos elementos vinculados con el desarrollo de software.](fig/plan-gestion-software.jpg){alt='Tres personas trabajan colaborativamente alrededor de distintos elementos, documentos y dispositivos vinculados con el desarrollo de software.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
-
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Hay ocasiones en donde NO es recomendable compartir código, ya sea por consideraciones legales y de seguridad:
@@ -374,12 +332,6 @@ Siempre debemos pensar en lo que estamos compartiendo y las implicaciones de hac
 ### ¿Cuándo compartir?
 
 Planifica compartir tu código desde el inicio.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `plan-gestion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando alrededor de distintos elementos vinculados con el desarrollo de software.](fig/plan-gestion-software.jpg){alt='Tres personas trabajan colaborativamente alrededor de distintos elementos, documentos y dispositivos vinculados con el desarrollo de software.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -406,8 +358,6 @@ Depende también de los requisitos del financiador o de la editorial académica 
 
 - Almacenamiento estático, a largo plazo, para versiones estables de software.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `repositorio-archivo-software.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Comparación entre un repositorio y un archivo de software.](fig/repositorio-archivo-software.png){alt='Comparación entre GitHub como repositorio dinámico y colaborativo y Zenodo como archivo estático para preservar versiones estables de software.'}
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -431,8 +381,6 @@ Alternativamente, un archivo de software es una forma de almacenamiento estátic
 - Revistas de acceso abierto dedicadas al software.
 - Repositorios de software para paquetes o librerías.
 - Comunidades con revisión por pares.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `alternativas-compartir-software.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Alternativas para publicar y revisar software abierto.](fig/alternativas-compartir-software.png){alt='Logotipos de Journal of Open Research Software, Journal of Open Source Software, CRAN, Python Package Index, pyOpenSci y rOpenSci.'}
 
@@ -499,8 +447,6 @@ Facilita:
 - Seguimiento de las contribuciones
 - Revertir cambios no deseados o errores
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `control-de-versiones.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Comparación entre la gestión manual de versiones y el uso de un sistema de control de versiones.](fig/control-de-versiones.jpg){alt='Ilustración que muestra la diferencia entre gestionar versiones de un documento de forma manual y utilizar un sistema de control de versiones como Git.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -527,8 +473,6 @@ El control de versiones:
 
 Herramienta más utilizada para control de versiones en proyectos de software y ciencia de datos.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `git-logo.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Logo de Git.](fig/git-logo.png){alt='Logo de la herramienta Git para el control de versiones.'}
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -544,8 +488,6 @@ Fue creado originalmente para el desarrollo de software, pero hoy se usa en proy
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Control de versiones
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `historial-control-versiones.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Representación del historial de un proyecto mediante control de versiones.](fig/historial-control-versiones.png){alt='Línea temporal formada por distintos puntos que representan versiones guardadas de un proyecto. Uno de los puntos aparece destacado como una fotografía del estado del proyecto en ese momento.'}
 
@@ -568,8 +510,6 @@ De esta forma podemos:
 
 ## Control de versiones
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `ramas-control-versiones.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Representación de ramas paralelas en un sistema de control de versiones.](fig/ramas-control-versiones.png){alt='Línea principal gris de un proyecto acompañada por ramas alternativas de color azul y naranja que luego se integran nuevamente en la rama principal.'}
 
 *Fuente: The Turing Way Community. (2025). [*The Turing Way handbook for reproducible, ethical and collaborative research*](https://doi.org/10.5281/zenodo.3233853). Zenodo.*
@@ -591,8 +531,6 @@ Y, al igual que antes, si algo sale mal, siempre podemos deshacer los cambios y 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Plataformas de control de versiones
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `plataformas-control-versiones.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Logotipos de GitLab, Bitbucket y GitHub.](fig/plataformas-control-versiones.png){alt='Logotipos de tres plataformas en línea para alojar repositorios con control de versiones: GitLab, Bitbucket y GitHub.'}
 
@@ -617,8 +555,6 @@ Para pegar en el chat:
 
 ## Integraciones útiles
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `integracion-github-zenodo-orcid.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Integración entre GitHub, Zenodo, DOI y ORCID.](fig/integracion-github-zenodo-orcid.png){alt='Diagrama que muestra la integración de un repositorio de GitHub con Zenodo para obtener un DOI y vincular el resultado con un perfil de ORCID.'}
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -630,8 +566,6 @@ Para que nuestro trabajo sea realmetne reproducible, tenemos que eventualmente a
 Y otra cuestión interesante es que podemos vincular zenodo con la plataforma de ORCID, y que nuestro código o software aparezca en nuestro perfil de ORCID vinculado a nuestra producción académica.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `github-release.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Repositorio de GitHub con un lanzamiento publicado.](fig/github-release.png){alt='Captura del repositorio NASA-Earthdata-Cloud en GitHub. Se destacan el nombre del repositorio, sus archivos y la sección Releases.'}
 
@@ -648,8 +582,6 @@ Cada release:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `zenodo-conectar-github.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Menú de Zenodo para conectar una cuenta con GitHub.](fig/zenodo-conectar-github.png){alt='Captura de la plataforma Zenodo con el menú de usuario desplegado y la opción GitHub resaltada.'}
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -657,8 +589,6 @@ Cada release:
 Esta es la plataforma Zenodo, y a la derecha, en el desplegable asociado a nuestro usuario, podemos ingresar a la sección que nos permite conectar nuestra cuenta de Zenodo con nuestra cuenta de GitHub.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `zenodo-activar-repositorio-github.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Repositorio de GitHub habilitado en Zenodo.](fig/zenodo-activar-repositorio-github.png){alt='Captura de la sección GitHub de Zenodo. Se destacan los pasos para conectar una cuenta y el interruptor que habilita el archivado de un repositorio.'}
 
@@ -679,8 +609,6 @@ En ese momento, automáticamente Zenodo:
 Este DOI es lo que transforma el repositorio en un objeto citable académicamente. Es decir, ahora este software o estos materiales se pueden citar igual que un paper o un dataset.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `zenodo-doi-badge-github.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Flujo para incorporar en GitHub el distintivo de DOI generado por Zenodo.](fig/zenodo-doi-badge-github.png){alt='Secuencia de capturas que muestra el DOI Badge generado por Zenodo, su incorporación en el archivo README y el distintivo del DOI visible en el repositorio de GitHub.'}
 
@@ -722,8 +650,6 @@ La idea importante para llevarse de esta diapositiva es:
 - Dependencias
 - Ejemplos de uso
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `documentacion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Personas trabajando colaborativamente en la documentación de un proyecto.](fig/documentacion-software.jpg){alt='Tres personas trabajan alrededor de distintos documentos y elementos vinculados con la documentación de un proyecto.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -758,12 +684,6 @@ También es útil agregar:
   - `CONTRIBUTING.md`
   - `CODE_OF_CONDUCT.md`
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `documentacion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
-![Personas trabajando colaborativamente en la documentación de un proyecto.](fig/documentacion-software.jpg){alt='Tres personas trabajan alrededor de distintos documentos y elementos vinculados con la documentación de un proyecto.'}
-
-*Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
-
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 También se recomienda que el repositorio incluya:
@@ -774,8 +694,6 @@ También se recomienda que el repositorio incluya:
 - Un código de conducta, almacenado en un archivo `CODE_OF_CONDUCT.md`, que describa las expectativas para las interacciones entre las personas que participan en el proyecto.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `documentacion-repositorio-github.png` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Documentación de un repositorio de GitHub.](fig/documentacion-repositorio-github.png){alt='Captura del repositorio NASA-Earthdata-Cloud en GitHub. Se destacan los archivos CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md y README.md, además de la opción para copiar la cita del repositorio en formato APA o BibTeX.'}
 
@@ -797,8 +715,6 @@ Podemos usar el siguiente recurso para generar este archivo paso a paso, descarg
 
 Los cuadernos computacionales o *notebooks* son entornos virtuales e interactivos que permiten combinar texto, código y los resultados de su ejecución, como tablas y visualizaciones.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `documentacion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Personas trabajando colaborativamente en la documentación de un proyecto.](fig/documentacion-software.jpg){alt='Tres personas trabajan alrededor de distintos documentos y elementos vinculados con la documentación de un proyecto.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
@@ -817,8 +733,6 @@ Los cuadernos computacionales son entornos virtuales e interactivos que permiten
 
 Combinación de **texto enriquecido**, **código** y **resultados de su ejecución**.
 
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `jupyter-notebook.png` en `episodes/fig/` 🟨🟨🟨 -->
-
 ![Ejemplo de un cuaderno de Jupyter.](fig/jupyter-notebook.png){alt='Ejemplo de un cuaderno de Jupyter que combina un bloque de texto enriquecido, una celda de código en Python y una visualización producida al ejecutar ese código. También aparecen los logotipos de Julia, Python y R.'}
 
 *Fuente: Project Jupyter.*
@@ -836,8 +750,6 @@ Otros formatos utilizados con frecuencia son Quarto y R Markdown.
 ### ¿Quiénes?
 
 Comprende los roles y las responsabilidades necesarios para compartir y, si corresponde, mantener el código.
-
-<!-- 🟨🟨🟨 FIGURA PENDIENTE: cargar `roles-gestion-software.jpg` en `episodes/fig/` 🟨🟨🟨 -->
 
 ![Personas colaborando en distintas tareas vinculadas con un proyecto.](fig/roles-gestion-software.jpg){alt='Varias personas realizan distintas tareas conectadas entre sí alrededor de un documento central, representando la distribución de roles y responsabilidades.'}
 
