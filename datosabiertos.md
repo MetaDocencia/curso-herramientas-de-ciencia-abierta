@@ -4,18 +4,6 @@ teaching: 100
 exercises: 40
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::: objectives
-
-Al finalizar este episodio, quienes participan podrán:
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Herramientas de Ciencia Abierta - Encuentro 2
 
 ## Datos Abiertos
