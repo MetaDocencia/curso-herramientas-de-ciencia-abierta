@@ -4,26 +4,6 @@ teaching: 100
 exercises: 40
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions
-
-- ¿Qué es el software de código abierto y qué principios orientan su desarrollo?
-- ¿Cómo puede planificarse la gestión del software a lo largo de un proyecto de investigación?
-- ¿Qué herramientas y prácticas facilitan el intercambio, la documentación, la reutilización y la citación de código abierto?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::: objectives
-
-Al finalizar este episodio, quienes participan podrán:
-
-- Definir qué es el software de código abierto.
-- Reconocer los principios y beneficios asociados con la apertura del código.
-- Describir los componentes principales de un Plan de Gestión de Software.
-- Identificar herramientas para gestionar versiones, documentar y compartir código.
-- Analizar cómo evaluar, reutilizar y citar código abierto.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Herramientas de Ciencia Abierta - Encuentro 3
 
 ## Código Abierto
