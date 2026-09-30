@@ -71,7 +71,6 @@ contact: 'infraestructura@metadocencia.org'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.Rmd
 - fundamentos.Rmd
 - datosabiertos.Rmd
 - codigoabierto.Rmd
