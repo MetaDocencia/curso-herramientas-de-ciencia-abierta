@@ -15,7 +15,7 @@ Los materiales se basan en el curso Open Science 101 de NASA y fueron contextual
 
 ## Motivaciones para participar
 
-Quienes completen esta formación podrán:
+Quienes completen esta formación durante sus cohortes virtuales podrán:
 
 - Acceder a una **doble certificación** MetaDocencia + NASA.
 - Tener una primera aproximación a técnicas y principios que propone la Ciencia Abierta.
@@ -30,7 +30,7 @@ Quienes completen esta formación podrán:
 
 MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio transversales y abiertos que promuevan colaboraciones entre diversas áreas del conocimiento.
 
-Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
+Esperamos que puedan sumarse personas hispanohablantes relacionadas con la ciencia y la técnica en un sentido amplio que:
 
 - Estén interesadas en debatir o construir conocimiento sobre Ciencia Abierta en contextos hispanohablantes. Si esta es tu primera aproximación, ¡será un honor que participes en el curso!
 - Hayan participado en Ciencia Ciudadana, redes, eventos o comunidades asociadas a estos temas.
@@ -65,7 +65,7 @@ Seleccioná el título de cada encuentro para consultar su hoja de ruta, que inc
 
 ## Certificación
 
-Quienes participen del curso podrán acceder a una **doble certificación**:
+Quienes participen del curso durante las cohortes virtuales podrán acceder a una **doble certificación**:
 
 ### Certificación NASA Open Science
 Para obtener el certificado de conocimiento de los contenidos del [Curso de Introducción a la Ciencia Abierta de la NASA](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101), será necesario responder correctamente al 70% de las preguntas de los cuestionarios administrados al final de cada encuentro. Los formularios estarán disponibles en español y la última parte de los encuentros sincrónicos se dedicará a responderlos. Se ofrecerá la posibilidad de completarlos de forma asincrónica (hasta 7 días corridos luego de la fecha del último encuentro) y de rehacerlos en el caso de no obtenerse el 70% de preguntas correctas.
