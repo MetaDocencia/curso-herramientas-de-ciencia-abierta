@@ -6,26 +6,13 @@ exercises: 40
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-### Orientaciones para facilitar
+## Antes de empezar
 
 Bienvenida. Antes de arrancar les quiero recordar que este encuentro va a ser grabado y que si bien nos encanta que estén con las camaras prendidas para poder interactuar de forma más fluida, si prefieren no aparecer en el video puede apagarlas. [Equipo de apoyo] va a estar iniciando la grabación ahora.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Antes de empezar
-
-Pautas para un espacio amable para todas las personas:
-
-- Para participar: pide la palabra o usa el chat.
-- Micrófonos: siléncialo al terminar de hablar.
-- Pide permiso antes de tomar registros de personas de este encuentro .
-- [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195).
-
-:::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
 Para que la interacción no sea caótica, les pedimos que pidan la palabra levantando una mano virtual o por medio del chat, y que una vez que hayan terminado de hablar, se vuelvan a mutear para evitar sonidos de fondo.
 
-Les quiero recordar que todos los espacios de MetaDocencia se rigen por nuestras Pautas de Convivencia, que les compartiremos en el chat. En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
+Les quiero recordar que todos los espacios de MetaDocencia se rigen por nuestras [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195). En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
