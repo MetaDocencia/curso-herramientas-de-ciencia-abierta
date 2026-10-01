@@ -34,8 +34,6 @@ En la sala de grupo de hoy vamos a estar conversando acerca de las preocupacione
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# ¿Qué es la Ciencia Abierta?
-
 ## ¿Qué es la Ciencia Abierta?
 
 > “El movimiento de Ciencia Abierta tiene como objetivo fomentar la difusión, el escrutinio y el reuso de los componentes de investigación para el bien de la ciencia y la sociedad”.
@@ -711,8 +709,6 @@ Presentá estos casos como ejemplos ilustrativos de la diversidad de propuestas,
 - [NASA Open Science 101 — Módulo 1](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_1/M1_readme_es.md).
 - [NASA Open Science 101 — Módulo 2](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_2/M2_readme_es.md).
 
-> **¡Aviso!** Si encontrás errores o tenés sugerencias, te invitamos a publicarlos como un *issue* en GitHub. Dar una devolución abierta es una excelente manera de contribuir a un proyecto.
-
 ### Más lecturas útiles
 
 - [Recomendación de la UNESCO sobre la Ciencia Abierta](https://unesdoc.unesco.org/ark:/48223/pf0000379949_spa).
@@ -834,3 +830,5 @@ Podés encontrar a MetaDocencia como **@metadocencia** en:
 - [Facebook](https://www.facebook.com/metadocencia).
 - [Mastodon](https://floss.social/@MetaDocencia).
 - [Bluesky](https://bsky.app/profile/metadocencia.org).
+
+> **¡Aviso!** Si encontrás errores o tenés sugerencias, te invitamos a publicarlos como un *issue* en GitHub. Dar una devolución abierta es una excelente manera de contribuir a un proyecto.
