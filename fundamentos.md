@@ -14,6 +14,8 @@ exercises: 40
 - Para participar: pide la palabra o usa el chat y silencialo al terminar de hablar
 - Pide permiso antes de tomar registros de las personas presentes en este encuentro.
 
+Quienes guían se presentan y mencionan a quiénes conforman el equipo de apoyo ese día
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::: discussion
