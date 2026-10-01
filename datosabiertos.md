@@ -10,13 +10,9 @@ exercises: 40
 
 Bienvenida. Antes de arrancar les quiero recordar que este encuentro va a ser grabado y que si bien nos encanta que estén con las camaras prendidas para poder interactuar de forma más fluida, si prefieren no aparecer en el video puede apagarlas. [Equipo de apoyo] va a estar iniciando la grabación ahora.
 
-Para que la interacción no sea caótica, les pedimos que pidan la palabra levantando una mano virtual o por medio del chat, y que una vez que hayan terminado de hablar, se vuelvan a mutear para evitar sonidos de fondo.
+Para que la interacción no sea caótica, les pedimos que pidan la palabra levantando la mano virtual o por medio del chat y que, una vez que hayan terminado de hablar, se vuelvan a mutear para evitar ruidos de fondo.
 
 Les quiero recordar que todos los espacios de MetaDocencia se rigen por nuestras [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195). En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Quienes guían se presentan y mencionan a quiénes conforman el equipo de apoyo ese día
 
