@@ -16,13 +16,6 @@ Les quiero recordar que todos los espacios de MetaDocencia se rigen por nuestras
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Nos presentamos
-
-- **Irene Vazano:** Coordinadora del área de Infraestructura.
-- **Nicolás Palopoli:** Co-Director Ejecutivo y Consejo Asesor.
-- **María Paz Míguez:** Coordinadora del área de Formación.
-- **Julián Buede:** Equipo de comunicación.
-
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Quienes guían se presentan y mencionan a quiénes conforman el equipo de apoyo ese día
