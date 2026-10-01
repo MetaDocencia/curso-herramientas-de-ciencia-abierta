@@ -304,7 +304,7 @@ Los datos sensibles incluyen aquellos que pueden causar discriminación o estigm
 
 Cuando investigamos utilizando datos personales y sensibles, es clave tratarlos para evitar que la información pueda asociarse con una persona; por ejemplo, mediante la desidentificación y, si fuera posible, la anonimización total.
 
-Compartí el enlace a la *Guía práctica para la protección de datos personales en salud* para que quienes participan puedan ampliar la información después del encuentro.
+Con la [*Guía práctica para la protección de datos personales en salud*](https://fund.ar/publicacion/guia-proteger-datos-en-salud/) pueden ampliar la información sobre el tema.
 
 Cuidar los datos sensibles, en algunos contextos, implica no abrirlos.
 Un ejemplo es el trabajo con datos de salud de poblaciones muy pequeñas, en las que resulta fácil identificar a grupos con alguna vulnerabilidad o enfermedad poco común.
