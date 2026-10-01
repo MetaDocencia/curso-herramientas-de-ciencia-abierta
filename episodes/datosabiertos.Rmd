@@ -4,10 +4,6 @@ teaching: 100
 exercises: 40
 ---
 
-# Herramientas de Ciencia Abierta - Encuentro 2
-
-## Datos Abiertos
-
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 ### Orientaciones para facilitar
