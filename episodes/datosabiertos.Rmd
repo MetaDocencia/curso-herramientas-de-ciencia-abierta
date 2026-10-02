@@ -817,8 +817,7 @@ Hay preguntas diseñadas con participación de la comunidad que guían la revisi
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Más allá de dónde, el cómo también importa. Hay tres elementos clave: primero, asignar una licencia clara para que quienes usen los datos sepan qué pueden hacer con ellos. Segundo, facilitar la información necesaria para que puedan citar los datos correctamente. Y tercero, incluir metadatos y documentación complementaria —en particular un archivo README— que explique qué son los datos, cómo se recolectaron y cómo interpretarlos.
-¿
-Quién me puede decir por el chat qué información podemos incluir en un README?
+¿Quién puede decir por el chat qué información podemos incluir en un README?
 
 El README puede incluir:
 
@@ -939,7 +938,7 @@ Si no trabajás directamente con datos, pensá en tu rol de apoyo: ¿alguna vez 
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Esta diapositiva resume una idea importante: compartir datos en abierto no es solo subir un archivo a internet.
+Compartir datos en abierto no es solo subir un archivo a internet.
 
 Hay distintos niveles de apertura, y cada decisión que tomamos puede hacer que esos datos sean más o menos útiles para otras personas.
 
@@ -962,8 +961,6 @@ Entonces, más que pensar en un sí o no, conviene pensar la apertura como un co
 
 - [NASA OS101 - Módulo 2](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/tree/main/Module_2)
 - [NASA OS101 - Módulo 3](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/tree/main/Module_3)
-
-🚨 ¡Aviso! Te invitamos a que si encuentras errores o tienes sugerencias, los publiques como un "issue" en GitHub. ¡Dar devolución abierta es una excelente manera de contribuir a un proyecto!
 
 ## Próximos pasos
 
@@ -1062,3 +1059,5 @@ Este encuentro fue posible gracias a:
 ¡Muchas gracias! Este encuentro fue posible gracias a NASA Open Science y CS&S (Code for Science & Society).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+🚨 ¡Aviso! Te invitamos a que si encuentras errores o tienes sugerencias, los publiques como un "issue" en GitHub. ¡Dar devolución abierta es una excelente manera de contribuir a un proyecto!
