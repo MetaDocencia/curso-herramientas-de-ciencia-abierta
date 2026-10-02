@@ -755,8 +755,6 @@ Una persona aliada clave en todo este proceso es la bibliotecaria o el bibliotec
 | **DOI automático** | A veces | Sí | Sí | Sí |
 | **Costo** | Gratuito | Gratuito (con límites) | Gratuito (con límites) | Gratuito para descarga; cobra curación |
 
-![Comparación entre repositorios institucionales, Zenodo, Figshare y Dryad.](fig/comparacion-repositorios.png){alt='Tabla comparativa que presenta quién gestiona cada repositorio, las disciplinas que abarca, si asigna un DOI automáticamente y sus costos.'}
-
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 No existe un único repositorio correcto. La mejor elección depende de tu disciplina, tu institución y el tipo de datos que querés compartir. Esta tabla muestra las opciones más comunes para orientarse. Zenodo suele ser la recomendación por defecto cuando no hay un repositorio disciplinar establecido: es gratuito, financiado con fondos públicos europeos, asigna DOI automáticamente y acepta casi cualquier tipo de material. En https://about.zenodo.org/infrastructure/ se pueden encontrar mas especificaciones sobre la gestión y su financiación. Figshare es muy similar pero tiene un modelo comercial detrás, lo cual conviene tener en cuenta. Dryad está muy bien posicionado en ciencias de la vida y tiene vínculo directo con muchas revistas. Y el repositorio institucional es la opción a explorar primero si tu institución tiene uno (especialmente en Argentina, donde la ley 26.899 lo puede hacer obligatorio.)
