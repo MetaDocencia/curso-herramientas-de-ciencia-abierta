@@ -4,63 +4,17 @@ teaching: 100
 exercises: 40
 ---
 
-# Resultados Abiertos
-
-**Herramientas de Ciencia Abierta — Encuentro 4**
-
-Jesica Formoso, Nicolás Palopoli, Irene Vazano, Laura Ación, Julián Buede y Paz Míguez
-
-Este material se comparte bajo una licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
-
-:::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Da la bienvenida al grupo.
-
-Antes de comenzar, recuerda que el encuentro será grabado. Si bien nos gusta que las personas mantengan sus cámaras encendidas para poder interactuar de forma más fluida, quienes prefieran no aparecer en el video pueden apagarlas.
-
-Indica que el equipo de apoyo iniciará la grabación.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 ## Antes de empezar
 
-### Pautas para un espacio amable para todas las personas
+Bienvenida. Antes de arrancar les quiero recordar que este encuentro va a ser grabado y que si bien nos encanta que estén con las camaras prendidas para poder interactuar de forma más fluida, si prefieren no aparecer en el video puede apagarlas. [Equipo de apoyo] va a estar iniciando la grabación ahora.
 
-- **Para participar:** pedí la palabra o usá el chat.
-- **Micrófonos:** silenciá el micrófono cuando termines de hablar.
-- Pedí permiso antes de tomar registros de otras personas durante el encuentro.
+Para que la interacción no sea caótica, les pedimos que pidan la palabra levantando la mano virtual o por medio del chat y que, una vez que hayan terminado de hablar, se vuelvan a mutear para evitar ruidos de fondo.
 
-Consulta las [Pautas de Convivencia de MetaDocencia](https://doi.org/10.5281/zenodo.12534195).
+Les quiero recordar que todos los espacios de MetaDocencia se rigen por nuestras [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195). En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
 
-:::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Recuerda que todos los espacios de MetaDocencia se rigen por nuestras Pautas de Convivencia. Comparte el enlace en el chat.
-
-En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Debemos evitar cualquier tipo de acoso, destrato o comentario que pueda incomodar a otras personas.
-
-Para ordenar la interacción, pide que quienes quieran participar levanten la mano virtual o escriban en el chat. Al terminar de hablar, deben volver a silenciar el micrófono para evitar sonidos de fondo.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Nos presentamos
-
-- **Jesica Formoso**  
-  Coordinadora del área de Medición de Impacto
-
-- **Nicolás Palopoli**  
-  Codirector ejecutivo e integrante del Consejo Asesor
-
-- **Irene Vazano**  
-  Coordinadora del área de Infraestructura
-
-- **Julián Buede**  
-  Equipo de Comunicación
-
-![Equipo a cargo del Encuentro 4.](fig/equipo-encuentro-4.png){alt='Retratos de Jesica Formoso, Nicolás Palopoli, Irene Vazano y Julián Buede, acompañados por sus nombres y roles en MetaDocencia.'}
-
-:::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Quienes guían el encuentro se presentan y mencionan a las personas que conforman el equipo de apoyo ese día.
+Quienes guían se presentan y mencionan a quiénes conforman el equipo de apoyo ese día.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -137,7 +91,7 @@ Además, las formas alternativas de comunicación suelen tener más posibilidade
 
 :::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Aquí vemos un ejemplo de una publicación de la *Revista Argentina de Ciencias del Comportamiento* que, además del manuscrito, incluye otros productos para aumentar la reproducibilidad del estudio.
+Aquí vemos un ejemplo de una publicación de la *Revista Argentina de Ciencias del Comportamiento* que, además del manuscrito, incluye otros productos para mejorar la reproducibilidad del estudio.
 
 La revista solicita que las personas autoras hagan declaraciones sobre la disponibilidad abierta de los materiales, los datos y el código de análisis. Cuando estos elementos están almacenados en repositorios, pueden enlazarse desde el artículo.
 
@@ -202,7 +156,7 @@ Cuando hablamos de colaboradoras y colaboradores, nos referimos a cualquier pers
 - Asesorar sobre una herramienta o un método específico.
 - Proporcionar apoyo logístico o administrativo.
 
-En cambio, cuando hablamos de autoría, solemos referirnos a quienes realizaron una contribución sustancial al trabajo —por ejemplo, a la concepción o el diseño del estudio, o a la adquisición, el análisis o la interpretación de los datos—, participaron en la elaboración del producto que se comparte y se responsabilizan por su contenido.
+En cambio, cuando hablamos de autoría, solemos referirnos a quienes realizaron una contribución sustancial al trabajo —por ejemplo, a la concepción o al diseño del estudio, o a la adquisición, el análisis o la interpretación de los datos—, participaron en la elaboración del producto que se comparte y se responsabilizan de su contenido.
 
 En el marco de la Ciencia Abierta también aparece la idea de transparentar las contribuciones: reconocer de manera clara qué aportó cada persona al proyecto.
 
