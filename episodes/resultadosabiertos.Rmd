@@ -258,8 +258,6 @@ Sin embargo, no todas las publicaciones llegan al acceso abierto por el mismo ca
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Publicaciones de acceso abierto
-
 ### Vía dorada
 
 Las personas autoras pagan el costo de publicación.
@@ -278,8 +276,6 @@ La crítica más frecuente a esta modalidad es su costo. Los cargos pueden alcan
 Algunas editoriales ofrecen descuentos o exenciones para determinados países y, en algunos casos, el organismo financiador permite cubrir el costo con los fondos del proyecto. De todos modos, sigue siendo una barrera adicional para publicar.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Publicaciones de acceso abierto
 
 ### Vía verde
 
@@ -309,8 +305,6 @@ En algunos casos, la revista también establece un período de embargo durante e
 Para compartir en el chat: [https://roar.eprints.org/](https://roar.eprints.org/)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Publicaciones de acceso abierto
 
 ### Vía diamante
 
@@ -379,7 +373,7 @@ Entonces, ¿cómo podemos identificarlas?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Revistas predatorias: señales de alerta
+## Señales de alerta
 
 - Tienen un nombre parecido al de una revista prestigiosa.
 - Envían correos electrónicos no solicitados pidiendo manuscritos.
@@ -398,7 +392,7 @@ Algunas señales de alerta frecuentes son:
 - Correos electrónicos no solicitados que invitan a enviar artículos y, en ocasiones, mencionan vagamente trabajos anteriores para parecer más creíbles.
 - Mensajes genéricos o poco específicos, que no se relacionan claramente con nuestro campo de investigación.
 - Ámbitos temáticos demasiado amplios; por ejemplo, revistas que dicen abarcar desde medicina e ingeniería hasta ciencias sociales.
-- Promesas de publicación extremadamente rápida, que pueden indicar que el artículo no atravesará una revisión por pares real.
+- Promesas de publicación extremadamente rápidas, que pueden indicar que el artículo no pasará por una revisión por pares real.
 - Énfasis excesivo en supuestos índices de impacto o bases de datos que pueden ser falsos, poco reconocidos o no corresponder con la indexación real de la revista.
 - Una cantidad inusual de números especiales publicados en poco tiempo.
 - Tasas de aceptación extremadamente altas.
