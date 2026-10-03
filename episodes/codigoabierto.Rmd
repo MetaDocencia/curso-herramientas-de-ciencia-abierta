@@ -4,26 +4,7 @@ teaching: 100
 exercises: 40
 ---
 
-## Código Abierto
-
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Bienvenida. Antes de arrancar les quiero recordar que este encuentro va a ser grabado y que si bien nos encanta que estén con las camaras prendidas para poder interactuar de forma más fluida, si prefieren no aparecen en el video puede apagarlas. [Equipo de apoyo] va a estar iniciando la grabación ahora.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Antes de empezar
-
-Pautas para un espacio amable para todas las personas:
-
-- Para participar: pide la palabra o usa el chat.
-- Micrófonos: siléncialo al terminar de hablar
-- Pide permiso antes de tomar registros de personas de este encuentro
-- [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195)
-
-:::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-También quiero recordarles que todos :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 ## Antes de empezar
 
