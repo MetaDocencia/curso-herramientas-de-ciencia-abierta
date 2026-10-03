@@ -23,22 +23,15 @@ Pautas para un espacio amable para todas las personas:
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-También quiero recordarles que todos los espacios de MetaDocencia se rigen por nuestras Pautas de Convivencia, que les compartiremos en el chat. En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
+También quiero recordarles que todos :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Finalmente, para que la interacción no sea caótica, les pedimos que pidan la palabra levantando una mano virtual o por medio del chat, y que una vez que hayan terminado de hablar, se vuelvan a mutear para evitar sonidos de fondo.
+## Antes de empezar
 
-Compartir en el chat: [https://doi.org/10.5281/zenodo.12534195](https://doi.org/10.5281/zenodo.12534195)
+Bienvenida. Antes de arrancar les quiero recordar que este encuentro va a ser grabado y que si bien nos encanta que estén con las camaras prendidas para poder interactuar de forma más fluida, si prefieren no aparecer en el video puede apagarlas. [Equipo de apoyo] va a estar iniciando la grabación ahora.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Para que la interacción no sea caótica, les pedimos que pidan la palabra levantando la mano virtual o por medio del chat y que, una vez que hayan terminado de hablar, se vuelvan a mutear para evitar ruidos de fondo.
 
-## Nos presentamos
-
-- **Jesica Formoso:** Coordinadora del área de Medición de Impacto
-- **María Nanton:** Colaboradora
-- **Irene Vazano:** Coordinadora del área de Infraestructura
-- **Julián Buede:** Equipo de comunicación
-
-:::::::::::::::::::::::::::::::::::::::::::::::: instructor
+Les quiero recordar que todos los espacios de MetaDocencia se rigen por nuestras [Pautas de Convivencia](https://doi.org/10.5281/zenodo.12534195). En resumen, buscamos que este sea un espacio seguro, respetuoso e inclusivo, donde podamos intercambiar ideas con empatía, escuchar distintas perspectivas y tratarnos con amabilidad. Y, por supuesto, evitar cualquier tipo de acoso, destrato o comentarios que puedan incomodar a otras personas.
 
 Quienes guían se presentan y mencionan a quiénes conforman el equipo de apoyo ese día
 
@@ -61,13 +54,7 @@ En el encuentro de hoy vamos a hablar sobre código y software abierto, específ
 
 ## Código y software abierto
 
-:::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-¿A qué nos referimos cuando hablamos de código y software abiertos?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## ¿Qué es el software de código abierto?
+### ¿Qué es el software de código abierto?
 
 Quienes hacemos ciencia escribimos código en un lenguaje de programación para:
 
@@ -91,9 +78,7 @@ En este sentido, el software no es solo el código en sí, sino también la estr
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## ¿Qué es el software de código abierto?
-
-Software de código abierto (open source):
+### Software de código abierto (open source)
 
 - Su código fuente está almacenado en un repositorio abierto y accesible.
 - Se distribuye sin costo
@@ -130,9 +115,6 @@ En primer lugar, buscamos que el código sea transparente para:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Principios
-
-- Transparencia
 - Compartir pronto y con frecuencia
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -141,12 +123,7 @@ En segundo lugar, se promueve el compartir temprano y compartir seguido. Esto im
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Principios
-
-- Transparencia
-- Compartir pronto y con frecuencia
 - Colaboración, inclusividad y comunidad
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -207,7 +184,7 @@ Finalmente, aumenta la visibilidad y mejora las oportunidades laborales y profes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Plan de gestión de software
+## Plan de gestión de software (PGS)
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -215,21 +192,14 @@ En el encuentro anterior hablamos del Plan de Ciencia Abierta en general y, más
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Plan de gestión de software (PGS)
-
-Documento que detalla cómo se va a desarrollar, gestionar, preservar, licenciar, publicar y mantener el software creado en el contexto de un proyecto de investigación.
+Un Plan de Gestión de Software en investigación es un documento que detalla cómo se va a desarrollar, gestionar, preservar, licenciar y compartir el software creado en el contexto de un proyecto de investigación. Este plan sirve como guía para el equipo que se encarga de desarrollar el software y además contribuye a asegurar la calidad, la eficiencia y la reproducibilidad de los resultados, al establecer pautas claras sobre el desarrollo, el versionado, la colaboración y el mantenimiento del código.
 
 ![Personas trabajando alrededor de distintos elementos vinculados con el desarrollo de software.](fig/plan-gestion-software.jpg){alt='Tres personas trabajan colaborativamente alrededor de distintos elementos, documentos y dispositivos vinculados con el desarrollo de software.'}
 
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
-::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Un Plan de Gestión de Software en investigación es un documento que detalla cómo se va a desarrollar, gestionar, preservar, licenciar y compartir el software creado en el contexto de un proyecto de investigación. Este plan sirve como guía para el equipo que se encarga de desarrollar el software y además contribuye a asegurar la calidad, la eficiencia y la reproducibilidad de los resultados, al establecer pautas claras sobre el desarrollo, el versionado, la colaboración y el mantenimiento del código.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Plan de gestión de software (PGS)
+### El PGS responde a las preguntas
 
 - ¿Qué?
 - ¿Cuándo?
@@ -250,8 +220,6 @@ Como mínimo, un plan de gestión de software tiene que detallar:
 A medida que nuestra investigación comience a generar y compartir código, el PGS proporcionará un manual o guía para los participantes del proyecto.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Plan de gestión de software (PGS)
 
 ### ¿Qué compartir?
 
@@ -276,8 +244,6 @@ Definir la finalidad de abrir nuestro código, va a ayudarnos a decidir cuándo 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Plan de gestión de software (PGS)
-
 ### ¿Qué compartir?
 
 No compartir cuando el código:
@@ -300,8 +266,6 @@ Siempre debemos pensar en lo que estamos compartiendo y las implicaciones de hac
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Plan de gestión de software (PGS)
-
 ### ¿Cuándo compartir?
 
 Planifica compartir tu código desde el inicio.
@@ -317,8 +281,6 @@ Si compartiremos código para que otros puedan reproducir nuestros resultados, e
 Depende también de los requisitos del financiador o de la editorial académica (si es que adjuntamos el código a un artículo de una revista de acceso abierto).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Plan de gestión de software (PGS)
 
 ### ¿Dónde compartir?
 
@@ -344,8 +306,6 @@ Un repositorio de software es un espacio dinámico y colaborativo de trabajo don
 Alternativamente, un archivo de software es una forma de almacenamiento estático donde se almacenan lanzamientos de software estables ya testeados o proyectos ya cerrados. La idea es alojar ahí versiones terminadas de un software, para las que el proceso de colaboración hasta un producto final ya haya finalizado, al menos hasta esa versión. Un ejemplo de archivo es Zenodo.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Plan de gestión de software (PGS)
 
 ### ¿Dónde compartir?
 
@@ -442,7 +402,7 @@ El control de versiones:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Control de versiones
+## Herramienta para el control de versiones
 
 Herramienta más utilizada para control de versiones en proyectos de software y ciencia de datos.
 
@@ -459,8 +419,6 @@ A diferencia de herramientas de edición de documentos como Word o Google Docs, 
 Fue creado originalmente para el desarrollo de software, pero hoy se usa en proyectos colaborativos de todo tipo, incluyendo cuando solo incluyen texto pero con muchos archivos en simultáneo.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Control de versiones
 
 ![Representación del historial de un proyecto mediante control de versiones.](fig/historial-control-versiones.png){alt='Línea temporal formada por distintos puntos que representan versiones guardadas de un proyecto. Uno de los puntos aparece destacado como una fotografía del estado del proyecto en ese momento.'}
 
@@ -480,8 +438,6 @@ De esta forma podemos:
 - Probar modificaciones sin romper la versión principal del proyecto
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Control de versiones
 
 ![Representación de ramas paralelas en un sistema de control de versiones.](fig/ramas-control-versiones.png){alt='Línea principal gris de un proyecto acompañada por ramas alternativas de color azul y naranja que luego se integran nuevamente en la rama principal.'}
 
@@ -571,7 +527,7 @@ Una vez que las cuentas están vinculadas, en Zenodo nos van a aparecer listados
 
 De esa forma le decimos a Zenodo que cada vez que hagamos un release de ese repositorio en github, zenodo lo archive.
 
-El segundo paso es justamente crear el release en GitHub, que es lo que les mostré antes..
+El segundo paso es crear el release en GitHub, como mostramos antes.
 
 En ese momento, automáticamente Zenodo:
 
@@ -579,7 +535,7 @@ En ese momento, automáticamente Zenodo:
 - Lo almacena
 - Y le asigna un DOI
 
-Este DOI es lo que transforma el repositorio en un objeto citable académicamente. Es decir, ahora este software o estos materiales se pueden citar igual que un paper o un dataset.
+Este DOI es lo que convierte el repositorio en un objeto académicamente citables. Es decir, ahora este software o estos materiales se pueden citar igual que un paper o un dataset.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -611,8 +567,6 @@ La idea importante para llevarse de esta diapositiva es:
 - Permite hacer un seguimiento de los cambios en el código y la documentación de un proyecto a lo largo de su evolución.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Plan de gestión de software (PGS)
 
 ### ¿Cómo compartir?
 
@@ -646,10 +600,6 @@ También es útil agregar:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Plan de gestión de software (PGS)
-
-### ¿Cómo compartir?
-
 - Archivo `LICENSE.md`
 - Información sobre cómo citar:
   - `CITATION.cff`
@@ -682,10 +632,6 @@ Podemos usar el siguiente recurso para generar este archivo paso a paso, descarg
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Plan de gestión de software (PGS)
-
-### ¿Cómo compartir?
-
 Los cuadernos computacionales o *notebooks* son entornos virtuales e interactivos que permiten combinar texto, código y los resultados de su ejecución, como tablas y visualizaciones.
 
 ![Personas trabajando colaborativamente en la documentación de un proyecto.](fig/documentacion-software.jpg){alt='Tres personas trabajan alrededor de distintos documentos y elementos vinculados con la documentación de un proyecto.'}
@@ -717,8 +663,6 @@ Un ejemplo son los Jupyter Notebooks, un formato que puede utilizarse con distin
 Otros formatos utilizados con frecuencia son Quarto y R Markdown.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Plan de gestión de software (PGS)
 
 ### ¿Quiénes?
 
@@ -795,11 +739,11 @@ Más información: [Open Worldwide Application Security Project (OWASP)](https:/
 
 Una vez que encontramos código potencialmente útil, necesitamos evaluarlo desde distintas perspectivas.
 
-**Funcionalidad:** ¿será útil para nuestro problema científico? Podemos revisar la documentación y consultar a colegas que tengan experiencia utilizando ese código o software.
+**Funcionalidad:** ¿será útil para nuestro problema científico? Podemos revisar la documentación y consultar a colegas que tengan experiencia usando ese código o software.
 
 **Interoperabilidad:** ¿es compatible con los sistemas que ya usamos? ¿Puede importar o exportar datos en formatos estándar? ¿Se integra con otras aplicaciones sin requerir adaptaciones complejas?
 
-**Seguridad:** ¿es seguro? ¿Su uso podría crear un riesgo para nuestro proyecto o nuestra institución?
+**Seguridad:** ¿es seguro? ¿Su uso podría suponer un riesgo para nuestro proyecto o para nuestra institución?
 
 Para evaluar este punto podemos:
 
@@ -884,8 +828,6 @@ También debemos seguir el formato de citación recomendado en el archivo `READM
 
 - [NASA OS101 - Módulo 2](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_2/M2_readme_es.md)
 - [NASA OS101 - Módulo 3](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_3/M3_readme_es.md)
-
-> 🚨 **¡Aviso!** Te invitamos a que, si encuentras errores o tienes sugerencias, los publiques como un *issue* en GitHub. Dar una devolución abierta es una excelente manera de contribuir a un proyecto.
 
 ## Próximos pasos
 
@@ -993,3 +935,6 @@ Puedes encontrar a MetaDocencia como **@metadocencia** en:
 ¡Muchas gracias! Este encuentro fue posible gracias a NASA Open Science y Code for Science & Society (CS&S).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> 🚨 **¡Aviso!** Te invitamos a que, si encuentras errores o tienes sugerencias, los publiques como un *issue* en GitHub. Dar una devolución abierta es una excelente manera de contribuir a un proyecto.
+
