@@ -4,14 +4,7 @@ teaching: 100
 exercises: 40
 ---
 
-# Herramientas de Ciencia Abierta - Encuentro 3
-
 ## Código Abierto
-
-Jesica Formoso, Laura Ación, Irene Vazano, Julián Buede, Nicolás Palopoli, Paz Míguez
-
-Puedes descargar la presentación aquí:  
-[https://doi.org/10.5281/zenodo.18894415](https://doi.org/10.5281/zenodo.18894415)
 
 :::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
