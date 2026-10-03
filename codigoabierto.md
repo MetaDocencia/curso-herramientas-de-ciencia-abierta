@@ -225,8 +225,6 @@ Definir la finalidad de abrir nuestro código, va a ayudarnos a decidir cuándo 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### ¿Qué compartir?
-
 No compartir cuando el código:
 
 - Incluya secretos militares de un país
@@ -287,8 +285,6 @@ Un repositorio de software es un espacio dinámico y colaborativo de trabajo don
 Alternativamente, un archivo de software es una forma de almacenamiento estático donde se almacenan lanzamientos de software estables ya testeados o proyectos ya cerrados. La idea es alojar ahí versiones terminadas de un software, para las que el proceso de colaboración hasta un producto final ya haya finalizado, al menos hasta esa versión. Un ejemplo de archivo es Zenodo.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-### ¿Dónde compartir?
 
 #### Otras alternativas
 
