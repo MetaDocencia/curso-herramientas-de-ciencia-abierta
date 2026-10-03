@@ -1049,8 +1049,6 @@ Para compartir en el chat:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## EPH con R
-
 ### Otros resultados abiertos
 
 - Artículos científicos y tesis académicas que utilizaron el paquete y los datos para analizar problemáticas sociales.
@@ -1149,8 +1147,6 @@ Invita a compartir las respuestas en el chat.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Ciencia Abierta e Inteligencia Artificial
-
 - Las revistas científicas implementan cada vez más políticas y requisitos sobre el uso de Inteligencia Artificial.
 - Su uso puede derivar en hallazgos de mala conducta académica o científica, como falsificación o plagio.
 - No está permitida en muchas solicitudes de financiamiento o procesos de evaluación de propuestas.
@@ -1214,10 +1210,6 @@ Por último, las herramientas de Inteligencia Artificial pueden contribuir al pr
 ## Lecturas útiles
 
 - [NASA OS101: Módulo 5](https://github.com/MetaDocencia/IntroALaCienciaAbierta_NASAOpenScience101/blob/main/Module_5/M5_readme_es.md)
-
-> 🚨 **¡Aviso!**
->
-> Si encontrás errores o tenés sugerencias, te invitamos a publicarlos como un *issue* en GitHub. Dar devoluciones abiertas es una excelente manera de contribuir a un proyecto.
 
 :::::::::::::::::::::::::::::::::::: instructor
 
@@ -1439,7 +1431,7 @@ También puedes registrarlo manualmente en tu perfil de **ORCID**.
 
 El certificado de NASA llegará mediante Credly, una plataforma de certificaciones e insignias digitales.
 
-Reproduce el video para mostrar qué deben hacer las personas participantes cuando reciban el correo de Credly.
+Reproduce el video para mostrar qué deben hacer las personas participantes al recibir el correo de Credly.
 
 Quienes lo deseen también pueden registrar manualmente el certificado en ORCID:
 
@@ -1515,3 +1507,5 @@ Finalmente, comparte la referencia de la presentación:
 [https://doi.org/10.5281/zenodo.18894630](https://doi.org/10.5281/zenodo.18894630)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
+> 🚨 **¡Aviso!**  Si encontrás errores o tenés sugerencias, te invitamos a publicarlos como un *issue* en GitHub. Dar devoluciones abiertas es una excelente manera de contribuir a un proyecto.
+
