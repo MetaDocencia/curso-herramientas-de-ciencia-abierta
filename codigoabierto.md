@@ -180,13 +180,7 @@ Un Plan de Gestión de Software en investigación es un documento que detalla c�
 *Fuente: The Turing Way Community, & Scriberia. (2022). [*Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse*](https://doi.org/10.5281/zenodo.3332807). Zenodo.*
 
 
-### El PGS responde a las preguntas
-
-- ¿Qué?
-- ¿Cuándo?
-- ¿Dónde?
-- ¿Cómo?
-- ¿Quiénes?
+### El PGS responde a las preguntas ¿Qué? ¿Cuándo? ¿Dónde? ¿Cómo? ¿Quiénes?
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
