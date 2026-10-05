@@ -534,59 +534,75 @@ Permite organizar y referenciar los distintos resultados de un proyecto.
 - Incluir, para cada elemento, una descripción, la forma de citarlo y su identificador persistente.
 - Organizar cada elemento como un componente del proyecto.
 
-![Logotipo de Open Science Framework.](fig/logo-osf.png){alt='Logotipo de Open Science Framework, compuesto por círculos azules conectados y la sigla OSF.'}
-
 :::::::::::::::::::::::::::::::::::::::: instructor
 
-Una herramienta muy útil para poner en práctica la Ciencia Abierta son las plataformas que permiten registrar y gestionar proyectos de investigación.
+### Orientaciones para facilitar
 
-Estas plataformas sirven para reunir y organizar los distintos resultados de un proyecto —como datos, código, materiales y preprints— y reconocer a las personas que colaboran en él.
+Una forma de poner en práctica la Ciencia Abierta es documentar y conectar los diferentes resultados producidos durante una investigación.
 
-Registrar un proyecto también permite preservar sus resultados y asignarles identificadores persistentes. De esta manera, cada elemento puede citarse y reutilizarse en diferentes contextos.
+Estos resultados pueden incluir datos, código, publicaciones, preprints, protocolos y materiales educativos. No necesariamente deben almacenarse en una misma plataforma: cada producto puede depositarse en el repositorio institucional, disciplinar o general más adecuado.
 
-El registro puede ayudarnos, por ejemplo, a presentar un informe de rendición de fondos, solicitar financiamiento o mostrar en qué estamos trabajando. También puede abrir posibilidades para que otras personas o equipos conozcan el proyecto y se sumen a colaborar.
+Al seleccionar un repositorio, es importante evaluar qué materiales admite, qué metadatos permite incorporar, si asigna identificadores persistentes y cuáles son sus políticas de acceso, licenciamiento y preservación.
 
-Un ejemplo de estas plataformas es Open Science Framework, también conocida como OSF. Esta plataforma permite crear y organizar un proyecto, vincular sus diferentes productos, asignar identificadores persistentes y controlar qué elementos serán públicos y cuáles permanecerán privados.
+### Cambios en Open Science Framework
 
-OSF es una plataforma gratuita mantenida por el Center for Open Science.
+Open Science Framework, también conocida como OSF, fue utilizada durante años para crear proyectos, organizar componentes, almacenar archivos y colaborar con otras personas. Sin embargo, el Center for Open Science anunció la discontinuación de la funcionalidad **OSF Projects**:
+
+- A partir del **16 de noviembre de 2026** no se podrán crear nuevos proyectos ni componentes.
+- Los proyectos existentes podrán modificarse hasta el **19 de febrero de 2027**.
+- Después de esa fecha pasarán a modo de solo lectura.
+- Los proyectos públicos seguirán siendo accesibles mediante sus direcciones e identificadores actuales.
+
+Por este motivo, OSF ya no debe recomendarse como espacio principal para iniciar, gestionar o almacenar nuevos proyectos de investigación.
+
+La plataforma continuará enfocándose en registros y prerregistros, servicios comunitarios de preprints y la vinculación con resultados alojados en otros repositorios.
+
+Quienes tengan proyectos activos en OSF deben evaluar si corresponde conservarlos como registros de solo lectura o trasladar sus contenidos a otros repositorios. Si un proyecto público está completo y no necesita modificaciones, OSF recomienda mantenerlo sin cambios.
+
+Referencias para quien facilita:
+
+- [Información oficial sobre la transición de OSF Projects](https://help.osf.io/article/725-faqs)
+- [Descripción de la nueva orientación de OSF](https://www.cos.io/products/osf)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Prerregistro
 
-Consiste en documentar y hacer público el diseño de un estudio antes de comenzar la recolección de datos:
+Consiste en documentar y registrar el diseño de un estudio antes de comenzar la recolección o el análisis de los datos:
 
-- Hipótesis o preguntas de investigación
-- Variables
-- Diseño
-- Muestra
-- Procedimiento
-- Análisis de datos
+- Hipótesis o preguntas de investigación.
+- Variables.
+- Diseño.
+- Muestra.
+- Procedimiento.
+- Análisis de datos.
+
+![Logotipo de Open Science Framework.](fig/logo-osf.png){alt='Logotipo de Open Science Framework, compuesto por círculos azules conectados y la sigla OSF.'}
 
 :::::::::::::::::::::::::::::::::::::::: instructor
 
-OSF también permite crear un prerregistro.
+### Orientaciones para facilitar
 
-El prerregistro consiste en documentar qué vamos a estudiar, cómo realizaremos el estudio y qué resultados esperamos encontrar antes de comenzar a recolectar los datos.
+Una de las funciones que OSF continuará ofreciendo es la creación de registros y prerregistros.
 
-Existen diferentes formatos de prerregistro, pero generalmente incluyen:
+El prerregistro consiste en documentar qué vamos a estudiar y cómo realizaremos el estudio antes de comenzar a recolectar o analizar los datos.
+
+Existen diferentes formatos, pero generalmente incluyen:
 
 1. Las hipótesis o preguntas de investigación.
 2. Las variables que se medirán y la manera en que se realizará esa medición.
-3. El diseño del estudio; por ejemplo, si será experimental u observacional, si tendrá diferentes grupos o condiciones y cómo se asignarán las personas participantes.
-4. La composición de la muestra: su tamaño previsto, los criterios de inclusión y exclusión y el procedimiento de reclutamiento.
-5. La descripción paso a paso del procedimiento y de la recolección de datos.
-6. Los análisis que se realizarán, incluyendo cómo se tratarán los datos faltantes o los valores extremos.
+3. El diseño del estudio.
+4. La composición y el tamaño previsto de la muestra.
+5. El procedimiento de recolección de datos.
+6. Los análisis que se realizarán.
 
-El objetivo del prerregistro es diferenciar con claridad aquello que se planificó antes de observar los datos de lo que se descubrió posteriormente.
+El objetivo es diferenciar con claridad aquello que se planificó antes de observar los datos de lo que se decidió o descubrió posteriormente.
 
-Puedes abrir un breve intercambio con la siguiente pregunta:
+El prerregistro también puede ayudar a planificar el estudio con anticipación, identificar decisiones que podrían afectar su diseño y reducir la posibilidad de modificar los análisis después de observar los datos para obtener resultados más significativos o interesantes.
 
-> ¿Para qué imaginan que puede servir el prerregistro en el contexto de las buenas prácticas científicas?
+En OSF, el registro genera una versión fechada del plan, que puede publicarse inmediatamente o mantenerse temporalmente bajo embargo.
 
-Entre otras cosas, el prerregistro busca reducir la posibilidad de que quienes investigan modifiquen, consciente o inconscientemente, sus análisis después de observar los datos para obtener resultados que parezcan más significativos o interesantes.
-
-También obliga a planificar con anticipación por qué y cómo se abordará la pregunta de investigación. Este proceso puede ayudar a identificar decisiones o problemas que podrían influir en el diseño del estudio.
+Los registros de OSF no reemplazan a los repositorios destinados a almacenar datos, código u otros resultados de investigación. Estos productos deben depositarse en plataformas apropiadas y luego pueden vincularse con el registro del estudio.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -672,7 +688,7 @@ Otra característica interesante es su integración con OSF. Podemos vincular un
 
 ### ¿Cómo vamos a trabajar?
 
-1. Cada grupo elige una persona para moderar la conversación, administrar el tiempo y distribuir la participación.
+1. Cada grupo elige a una persona para moderar la conversación, gestionar el tiempo y distribuir la participación.
 
 2. Cada grupo elige una persona representante para sintetizar el intercambio y compartirlo brevemente en la sala principal.
 
@@ -682,8 +698,8 @@ Al igual que en los encuentros anteriores, realizaremos una actividad en salas d
 
 Recuerda que cada grupo debe elegir:
 
-- Una persona que modere la conversación, ayude a organizar el tiempo y procure que todas las personas tengan la oportunidad de participar.
-- Una persona que represente al grupo y comparta brevemente en la sala principal los principales temas que surgieron durante el intercambio.
+- Una persona que modere la conversación, gestione el tiempo y procure que todas las personas tengan la oportunidad de participar.
+- Una persona que represente al grupo y comparta brevemente en la sala principal los temas principales que surgieron durante el intercambio.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -706,7 +722,7 @@ Duración: 10 minutos.
 
 Distribuye a las personas participantes en salas de grupos.
 
-Antes de abrir las salas, recuerda que cada grupo debe designar a una persona moderadora y a una persona representante.
+Antes de abrir las salas, recuerda que cada grupo debe designar a una persona moderadora y a otra representante.
 
 Cuando regresen a la sala principal, invita a cada representante a compartir brevemente:
 
@@ -726,17 +742,17 @@ Un Plan de Gestión de Datos y Ciencia Abierta puede incluir:
 Estos planes:
 
 - Nos ayudan a pensar la apertura desde el inicio de la investigación.
-- Son documentos vivos que pueden adaptarse ante situaciones emergentes.
+- Son documentos vivos que pueden adaptarse a situaciones emergentes.
 
 :::::::::::::::::::::::::::::::::::: instructor
 
 Volvamos a un tema que atraviesa todos los encuentros: la planificación.
 
-Para abrir una investigación es necesario pensar la gestión de la apertura desde el comienzo. Podemos guiarnos por un principio importante:
+Para abrir una investigación, es necesario planificar la gestión de la apertura desde el comienzo. Podemos guiarnos por un principio importante:
 
 > Tan abierto como sea posible, tan cerrado como sea necesario.
 
-Un Plan de Gestión de Datos y Ciencia Abierta describe cómo se administrará y compartirá la información científica producida durante una investigación.
+Un Plan de Gestión de Datos y Ciencia Abierta describe cómo se gestionará y compartirá la información científica generada durante una investigación.
 
 Puede incluir secciones específicas sobre:
 
@@ -849,16 +865,16 @@ También podemos incluir ejemplos breves de uso para facilitar que otras persona
 
 Si buscamos que nuestros resultados sean más fáciles de reproducir y que el proyecto invite a la colaboración, podemos incorporar algunos recursos adicionales.
 
-Un archivo de código de conducta —generalmente llamado `CODE_OF_CONDUCT`— establece pautas para la interacción dentro de la comunidad. Esto es especialmente importante en proyectos abiertos a los que pueden incorporarse personas que no formaban parte del equipo original.
+Un archivo de código de conducta —generalmente llamado `CODE_OF_CONDUCT`— establece pautas para la interacción dentro de la comunidad. Esto es especialmente importante en proyectos abiertos a personas que no formaban parte del equipo original.
 
-También podemos definir pautas para colaborar mediante un archivo `CONTRIBUTING`. Allí podemos explicar:
+También podemos definir pautas para colaborar en un archivo `CONTRIBUTING`. Allí podemos explicar:
 
 - Qué tipo de contribuciones necesita el proyecto.
 - Cómo pueden realizarse.
 - Cómo serán revisadas.
 - De qué manera se reconocerán las contribuciones y la autoría.
 
-Es importante publicar los nombres de las personas colaboradoras solamente con su consentimiento.
+Es importante publicar los nombres de las personas colaboradoras únicamente con su consentimiento.
 
 También podemos compartir la propuesta del proyecto, siempre que eliminemos previamente cualquier información confidencial o sensible.
 
@@ -871,26 +887,26 @@ Finalmente, los materiales de capacitación facilitan la incorporación de nueva
 ## Para una mayor reproducibilidad y colaboración
 
 - Tableros o informes para comunicar los avances del proyecto.
-- Manuales de uso y ejecutables que permitan probar el código.
-- Documentación sobre el procesamiento de los datos.
+- Manuales de uso y ejecutables para probar el código.
+- Documentación sobre el procesamiento de datos.
 - Tutoriales o videos breves que muestren el flujo de trabajo.
-- Entradas de blog sobre la experiencia, sus desafíos y cómo fueron resueltos.
+- Entradas de blog sobre la experiencia, sus desafíos y cómo se resolvieron.
 
 :::::::::::::::::::::::::::::::::::: instructor
 
 También podemos utilizar tableros interactivos o informes de avance para mantener informado al equipo ampliado.
 
-Si trabajamos con plataformas de control de versiones como GitHub, podemos solicitar devoluciones sobre los nuevos desarrollos antes de incorporarlos, favoreciendo la revisión colectiva.
+Si trabajamos con plataformas de control de versiones como GitHub, podemos solicitar revisiones de los nuevos desarrollos antes de incorporarlos, lo que favorece la revisión colectiva.
 
 Cuando el proyecto incluye software, es conveniente proporcionar manuales de uso y mecanismos que permitan probar el código de manera sencilla, sin necesidad de configurar todo el entorno desde cero.
 
 Los tutoriales y videos breves son formas accesibles de mostrar el flujo de trabajo. Pueden resultar especialmente útiles cuando las personas colaboradoras se incorporan en diferentes etapas del proyecto.
 
-Una entrada de blog sobre la experiencia, los desafíos encontrados y la manera en que fueron resueltos también constituye un Resultado Abierto valioso. Permite compartir conocimiento sobre el proceso de investigación, no solamente sobre sus hallazgos.
+Una entrada de blog sobre la experiencia, los desafíos encontrados y cómo se resolvieron también constituye un Resultado Abierto valioso. Permite compartir conocimiento sobre el proceso de investigación, no solo sobre sus hallazgos.
 
-Estos productos también pueden preservarse en un repositorio y recibir un identificador persistente, como un DOI.
+Estos productos también pueden conservarse en un repositorio y recibir un identificador persistente, como un DOI.
 
-Por último, conviene vincular los artículos, datos, videos, entradas de blog y demás productos desde el repositorio central del proyecto. De esta manera, pueden comprenderse como partes de un mismo proceso y no quedan como recursos aislados.
+Por último, conviene vincular los artículos, datos, videos, entradas de blog y demás productos desde el repositorio central del proyecto. De esta manera, pueden entenderse como partes de un mismo proceso y no quedan como recursos aislados.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -912,7 +928,7 @@ Volvamos al principio que mencionamos al comenzar este bloque:
 
 > Tan abierto como sea posible, tan cerrado como sea necesario.
 
-Abrir responsablemente implica no cruzar límites éticos o legales. Una pregunta que puede orientarnos es:
+Abrir responsablemente implica no cruzar límites éticos ni legales. Una pregunta que puede orientarnos es:
 
 > ¿A quién podría perjudicar la publicación de esta información y qué alternativas podemos adoptar?
 
@@ -924,7 +940,7 @@ Cuando trabajamos con información sobre personas, debemos respetar las leyes y 
 
 Antes de compartir los datos, debemos evaluar si es posible ocultar la información personal y reducir el riesgo de reidentificación. Eliminar nombres o documentos de identidad no siempre es suficiente: una combinación de variables también puede permitir identificar a una persona.
 
-Los datos sensibles requieren todavía más cuidado. Incluyen, por ejemplo, información sobre salud, origen étnico, creencias religiosas, opiniones políticas u otros datos cuyo conocimiento podría generar discriminación o poner en riesgo a una persona.
+Los datos sensibles requieren aún más cuidado. Incluyen, por ejemplo, información sobre salud, origen étnico, creencias religiosas, opiniones políticas u otros datos cuyo conocimiento podría generar discriminación o poner en riesgo a una persona.
 
 **Datos ecológicamente sensibles**
 
@@ -934,7 +950,7 @@ La ubicación de sitios de reproducción o de poblaciones de especies amenazadas
 
 También puede ser necesario limitar el acceso a información que ponga en riesgo la seguridad de personas, comunidades o instituciones. Algunas de estas decisiones dependen de marcos políticos y normativos y no son exclusivamente técnicas.
 
-Desde una perspectiva regional, también debemos evaluar si la apertura indiscriminada puede favorecer prácticas extractivistas: por ejemplo, cuando datos producidos en una región son procesados y valorizados fuera de ella, sin participación ni reconocimiento de las comunidades o los equipos que los generaron.
+Desde una perspectiva regional, también debemos evaluar si la apertura indiscriminada puede favorecer prácticas extractivistas: por ejemplo, cuando los datos producidos en una región son procesados y valorados fuera de ella, sin la participación ni el reconocimiento de las comunidades o de los equipos que los generaron.
 
 En estos casos podemos considerar alternativas como:
 
@@ -1012,7 +1028,7 @@ Muchos de los cambios culturales e institucionales vinculados con la Ciencia Abi
 - **Paquete `eph` de R:**
   - Permite procesar los datos de la EPH.
   - Facilita la replicación y el análisis independiente.
-  - Permite estudiar categorías e indicadores no proporcionados en los informes oficiales.
+  - Permite estudiar categorías e indicadores no incluidos en los informes oficiales.
 
 Referencia: [https://doi.org/10.5281/zenodo.3462677](https://doi.org/10.5281/zenodo.3462677)
 
@@ -1034,7 +1050,7 @@ Entre otros productos, el INDEC realiza la Encuesta Permanente de Hogares —EPH
 
 A partir de esta encuesta se elaboran, entre otros resultados, las tasas oficiales de empleo, desocupación, subocupación y pobreza. Su difusión se complementa con tablas e información agregada.
 
-Las bases de datos de la EPH son públicas y se encuentran disponibles bajo una licencia CC BY 4.0.
+Las bases de datos de la EPH son públicas y están disponibles bajo la licencia CC BY 4.0.
 
 En 2020, un equipo de investigación externo al INDEC creó el paquete `eph` para el lenguaje de programación R.
 
@@ -1042,10 +1058,7 @@ Este paquete es de código abierto y permite procesar los datos de la EPH. De es
 
 - Replicar los análisis publicados por el organismo.
 - Obtener conclusiones independientes.
-- Analizar categorías e indicadores que no aparecen en los informes oficiales.
-
-Para compartir en el chat:  
-[https://doi.org/10.5281/zenodo.3462677](https://doi.org/10.5281/zenodo.3462677)
+- Analizar categorías e indicadores que no figuran en los informes oficiales.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1191,9 +1204,6 @@ Referencias para quien facilita:
 - Los planes de gestión de datos, software y publicaciones ordenan la apertura desde el inicio y son documentos activos durante todo el proyecto.
 - No existe una única manera de hacer Ciencia Abierta. Hay múltiples limitaciones y barreras para su implementación, pero podemos contribuir mediante diferentes prácticas para alcanzar la mayor apertura posible.
 - Las herramientas de Inteligencia Artificial pueden ayudar en el proceso de apertura y agilizar los flujos de trabajo científicos, pero la comunidad científica apenas comienza a comprender cómo utilizarlas de forma ética y segura.
-
-Podés descargar esta presentación aquí:  
-[https://doi.org/10.5281/zenodo.18894630](https://doi.org/10.5281/zenodo.18894630)
 
 :::::::::::::::::::::::::::::::::::: instructor
 
