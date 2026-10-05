@@ -209,6 +209,15 @@ Elige 2 opciones
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::: solution
+
+Respuestas correctas
+
+- Son estructurados y estandarizados
+- Pueden ser indexados y buscados a través de motores de búsqueda
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Licencia
 
 Indica:
@@ -347,6 +356,13 @@ Selecciona la opción correcta
 - CC BY-NC-SA
 - CC BY
 - Apache 2.0
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::: solution
+
+Respuesta correcta:
+- CC BY
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
