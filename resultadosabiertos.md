@@ -1403,15 +1403,13 @@ Para obtener la certificación:
 - Alcanza un mínimo de **7 respuestas correctas** en cada evaluación.
 - Completa las evaluaciones hasta el **6 de julio inclusive**.
 
-![Recorrido de los cuatro encuentros y certificación de NASA Ciencia Abierta 101.](fig/recorrido-certificacion-nasa.png){alt='Diagrama del recorrido formativo. Incluye cuatro encuentros sobre fundamentos de la Ciencia Abierta, Datos Abiertos, Código Abierto y Resultados Abiertos, junto con las insignias correspondientes y la certificación final de NASA Ciencia Abierta 101.'}
-
 :::::::::::::::::::::::::::::: instructor
 
 ¡Felicitaciones a quienes ya completaron y aprobaron las cuatro evaluaciones con un mínimo de siete respuestas correctas en cada una!
 
 Si todavía les falta completar alguna evaluación, recuerden que pueden hacerlo hasta el 6 de julio inclusive.
 
-A partir del 8 de julio, MetaDocencia enviará a NASA los datos necesarios para gestionar los certificados:
+A partir del [FECHA], MetaDocencia enviará a NASA los datos necesarios para gestionar los certificados:
 
 - Nombre.
 - Apellido.
