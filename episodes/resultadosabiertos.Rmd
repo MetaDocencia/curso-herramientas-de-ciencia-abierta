@@ -348,7 +348,7 @@ Las publicaciones que no requieren pagar para leer ni para publicar un artículo
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::: instructor
+:::::::::::::::::::::::: solution
 
 **Respuesta correcta:** vía diamante.
 
@@ -1116,7 +1116,7 @@ Shokida, N. S., Domenech Burin, L., Pradier, C., Santellán, C., Espiñeira, L.,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::: instructor
+:::::::::::::::::::::::: solution
 
 Las respuestas correctas son:
 
