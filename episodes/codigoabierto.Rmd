@@ -164,6 +164,13 @@ Finalmente, aumenta la visibilidad y mejora las oportunidades laborales y profes
 - Se distribuye sin su código fuente, pero sin costo alguno, permitiendo que otros lo utilicen libremente.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: solution
+
+Respuesta correcta:
+
+- Se distribuye con su código fuente de forma gratuita, permitiendo su uso, modificación y distribución con los mismos derechos originales.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Plan de gestión de software (PGS)
 
@@ -357,19 +364,19 @@ Facilita:
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-A menudo las personas que trabajan en investigación no tienen formación de base técnica en términos de desarrollo de software, no obstante necesitan adquirir habilidades en programación y gestión de código para desarrollarse en sus carreras. Lo que vamos a ver a continuación es esencial para sus proyectos de investigación actuales y potenciales.
+A menudo, las personas que trabajan en investigación no tienen formación técnica en desarrollo de software; no obstante, necesitan adquirir habilidades en programación y gestión de código para desarrollarse en sus carreras. Lo que vamos a ver a continuación es esencial para sus proyectos de investigación actuales y potenciales.
 
 Mencionamos que algunos repositorios usan control de versiones. ¿Qué es el control de versiones?
 
 Un ejemplo seguramente más cercano es el control de cambios en herramientas como Microsoft Word o google docs. Esto nos permite rastrear y gestionar los cambios en un documento. Pero no sería lo más apropiado para trabajar con código.
 
-Necesitamos herramientas específicas que permitan rastrear los cambios en el código y maneras ágiles de trabajar de manera colaborativa en los equipos de trabajo.
+Necesitamos herramientas específicas que permitan rastrear los cambios en el código y formas ágiles de trabajar colaborativamente en los equipos.
 
 El control de versiones:
 
 - Ayuda a seguir los cambios en todos los archivos vinculados a un proyecto de código, a lo largo de toda su evolución.
 - Permite hacer un seguimiento de las contribuciones realizadas por distintas personas.
-- Los cambios no deseados, como aquellos que lleven a errores o fallos, pueden revertirse en cualquier momento.
+- Los cambios no deseados, como los que lleven a errores o fallos, pueden revertirse en cualquier momento.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -381,13 +388,13 @@ Herramienta más utilizada para control de versiones en proyectos de software y 
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-La herramienta más utilizada para control de versiones en proyectos de software y ciencia de datos es Git.
+La herramienta más utilizada para el control de versiones en proyectos de software y de ciencia de datos es Git.
 
 Git es un sistema de control de versiones diseñado para registrar los cambios que se realizan en archivos a lo largo del tiempo.
 
-A diferencia de herramientas de edición de documentos como Word o Google Docs, Git está pensado específicamente para trabajar con archivos de código y proyectos completos. Esto significa que no solo registra cambios en un documento aislado, sino en todo el conjunto de archivos que forman un proyecto.
+A diferencia de herramientas de edición de documentos como Word o Google Docs, Git está diseñado específicamente para trabajar con archivos de código y proyectos completos. Esto significa que no solo registra cambios en un documento aislado, sino también en todo el conjunto de archivos que conforman un proyecto.
 
-Fue creado originalmente para el desarrollo de software, pero hoy se usa en proyectos colaborativos de todo tipo, incluyendo cuando solo incluyen texto pero con muchos archivos en simultáneo.
+Fue creado originalmente para el desarrollo de software, pero hoy se usa en proyectos colaborativos de todo tipo, incluso cuando solo incluyen texto, pero con muchos archivos simultáneamente.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -399,7 +406,7 @@ Fue creado originalmente para el desarrollo de software, pero hoy se usa en proy
 
 ¿Cómo funciona en términos simplificados?
 
-Durante el desarrollo de un proyecto, el control de versiones va guardando distintos puntos en el tiempo y cada uno de estos puntos representa una foto del estado del código en ese momento. Cada vez que hacemos un cambio y lo guardamos en el sistema de control de versiones, se crea y guarda una nueva foto junto con un mensaje que describe los cambios que se hicieron.
+Durante el desarrollo de un proyecto, el control de versiones guarda distintos puntos en el tiempo, y cada uno de ellos representa una instantánea del estado del código en ese momento. Cada vez que hacemos un cambio y lo guardamos en el sistema de control de versiones, se crea y se guarda una nueva foto junto con un mensaje que describe los cambios realizados.
 
 De esta forma podemos:
 
@@ -420,7 +427,7 @@ Además de guardar puntos en el tiempo, el control de versiones nos permite trab
 
 Así podemos probar nuevas funciones, nuevas ideas, generando versiones alternativas como las líneas azul y naranja (las vamos a llamar ramas), sin afectar la versión principal del código (en este caso la línea gris) que ya sabemos que funciona correctamente.
 
-Cuando el código nuevo está listo y estamos conformes con el resultado, podemos integrarlo nuevamente en la rama principal.
+Cuando el código nuevo esté listo y estemos conformes con el resultado, podemos integrarlo nuevamente en la rama principal.
 
 Otra ventaja importante es la colaboración.
 
@@ -436,9 +443,9 @@ Y, al igual que antes, si algo sale mal, siempre podemos deshacer los cambios y 
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Aunque podemos usar Git localmente, en nuestra computadora, normalmente se combina con plataformas en línea que alojan repositorios de código, como GitHub, GitLab o Bitbucket. Estas plataformas online de control de versiones nos permite:
+Aunque podemos usar Git localmente, en nuestra computadora, normalmente se combina con plataformas en línea que alojan repositorios de código, como GitHub, GitLab o Bitbucket. Estas plataformas online de control de versiones nos permiten:
 
-- Almacenar en la ube nuestro código junto con todo el historial de cambios
+- Almacenar en la nube nuestro código junto con todo el historial de cambios
 - Colaborar con otras personas, que pueden ver el código, proponer cambios y contribuir al proyecto.
 
 GitHub es una de las plataformas más populares y la mayoría de los proyectos de software de código abierto, es decir, proyectos públicos en los que cualquiera puede colaborar, están alojados en esta plataforma.
@@ -461,9 +468,9 @@ Para pegar en el chat:
 
 Ahora bien, ¿si subimos nuestro código a un repositorio de GitHub podemos decir que lo almacenamos de forma permanente? No. El contenido del repositorio puede ir cambiando.
 
-Para que nuestro trabajo sea realmetne reproducible, tenemos que eventualmente archivarlo en una plataforma de almacenamiento a largo plazo como zenodo. Una gran ventaja de GitHub es que podemos integrarlo con Zenodo y, no solo ir archivando versiones estáticas de nuestro código, sino que podemos además usarlo para asignarle un DOI y citarlo con esa herramienta.
+Para que nuestro trabajo sea realmente reproducible, eventualmente tenemos que archivarlo en una plataforma de almacenamiento a largo plazo, como Zenodo. Una gran ventaja de GitHub es que podemos integrarlo con Zenodo y no solo archivar versiones estáticas de nuestro código, sino también asignarle un DOI y citarlo con esa herramienta.
 
-Y otra cuestión interesante es que podemos vincular zenodo con la plataforma de ORCID, y que nuestro código o software aparezca en nuestro perfil de ORCID vinculado a nuestra producción académica.
+Y otra cuestión interesante es que podemos vincular Zenodo con la plataforma de ORCID, y que nuestro código o software aparezca en nuestro perfil de ORCID vinculado a nuestra producción académica.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -471,9 +478,9 @@ Y otra cuestión interesante es que podemos vincular zenodo con la plataforma de
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Acá tenemos un repositorio de Github, el código ya está almacenado en el repositorio con control de versiones. Ya es abierto, colaborativo, transparente. Vamos a hablar de como mejorar la manera de compartirlo aprovechando la integración de GitHub + Zenodo.
+Acá tenemos un repositorio de Github, el código ya está almacenado en el repositorio con control de versiones. Ya es abierto, colaborativo, transparente. Vamos a hablar de cómo mejorar la forma de compartirlo aprovechando la integración entre GitHub y Zenodo.
 
-El nombre del repositorio es NASA-Earthdata-Cloud, y debajo podemos ver todos los archivos almacenados allí. Debajo a la derecha vemos que hicimos un “Release”. Un release en GitHub es una versión específica del repositorio que el autor decide publicar como una versión oficial o estable, que otras personas puedan usar o citar.
+El nombre del repositorio es NASA-Earthdata-Cloud, y debajo podemos ver todos los archivos almacenados allí. Debajo, a la derecha, vemos que hicimos un “Release”. Un release en GitHub es una versión específica del repositorio que el autor decide publicar como oficial o estable, para que otras personas puedan usarla o citarla.
 
 Cada release:
 
@@ -494,7 +501,7 @@ Esta es la plataforma Zenodo, y a la derecha, en el desplegable asociado a nuest
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Una vez que las cuentas están vinculadas, en Zenodo nos van a aparecer listados nuestros repositorios de GitHub. Ubicamos el que nos interesa archivar en zenodo y dejamos el interruptor que está a la derecha en ON.
+Una vez que las cuentas estén vinculadas, en Zenodo nos aparecerán listados nuestros repositorios de GitHub. Ubicamos el que nos interesa archivar en zenodo y dejamos el interruptor que está a la derecha en ON.
 
 De esa forma le decimos a Zenodo que cada vez que hagamos un release de ese repositorio en github, zenodo lo archive.
 
@@ -514,7 +521,7 @@ Este DOI es lo que convierte el repositorio en un objeto académicamente citable
 
 ::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-El tercer paso es que Zenodo nos da un badge (el recuadro azul), que podemos poner en el repositorio de GitHub, en general en un archivo específico que se llama README. Ese badge muestra el DOI y permite que otras personas accedan fácilmente a la versión archivada haciendo click sobre el rectángulo azul.
+El tercer paso es que Zenodo nos da un badge (el recuadro azul) que podemos poner en el repositorio de GitHub, generalmente en un archivo específico llamado README. Ese badge muestra el DOI y permite que otras personas accedan fácilmente a la versión archivada haciendo click sobre el rectángulo azul.
 
 La idea importante para llevarse de esta diapositiva es:
 
@@ -534,7 +541,14 @@ La idea importante para llevarse de esta diapositiva es:
 ¿Cuál es una de las principales razones para usar control de versiones en proyectos de Código Abierto?
 
 - Aumenta la velocidad de ejecución del código.
-- Resuelve automáticamente todos los conflictos que surgen de ediciones simultáneas de código que contribuyen distintas personas.
+- Resuelve automáticamente todos los conflictos que surgen de ediciones simultáneas de código en las que contribuyen distintas personas.
+- Permite hacer un seguimiento de los cambios en el código y la documentación de un proyecto a lo largo de su evolución.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: solution
+
+Respuesta correcta:
+
 - Permite hacer un seguimiento de los cambios en el código y la documentación de un proyecto a lo largo de su evolución.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -783,7 +797,15 @@ También debemos seguir el formato de citación recomendado en el archivo `READM
 **Elige 2 opciones:**
 
 - Cuando el software desempeñó un papel fundamental en tu investigación.
-- Cuando el software se utilizó para enviar y recibir correos electrónicos sobre la investigación.
+- Cuando se utilizó el software para enviar y recibir correos electrónicos sobre la investigación.
+- Cuando la licencia del software requiere atribución.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: solution
+
+Respuestas correctas:
+
+- Cuando el software desempeñó un papel fundamental en tu investigación.
 - Cuando la licencia del software requiere atribución.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
