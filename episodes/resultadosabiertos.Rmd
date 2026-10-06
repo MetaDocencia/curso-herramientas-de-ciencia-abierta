@@ -1431,10 +1431,7 @@ También puedes registrarlo manualmente en tu perfil de **ORCID**.
 
 [Ver el instructivo sobre Credly y ORCID](https://www.youtube.com/watch?v=hhzC1sbrnGk)
 
-![Video instructivo Credly y ORCID](fig/video-certificado.png){alt='Captura de la página de Credly con la insignia NASA Open Science 101, enmarcada como un reproductor de video con un botón rojo de reproducción en el centro y controles de reproducción en la parte inferior.'}
-
-
-[![Captura del video sobre cómo recibir el certificado mediante Credly y registrarlo en ORCID.](fig/video-certificado-credly-orcid.png){alt='Captura de un video instructivo que muestra el ingreso a Credly y el registro de una certificación en un perfil de ORCID.'}](https://www.youtube.com/watch?v=hhzC1sbrnGk)
+[![Video instructivo Credly y ORCID](fig/video-certificado.png){alt='Captura de la página de Credly con la insignia NASA Open Science 101, enmarcada como un reproductor de video con un botón rojo de reproducción en el centro y controles de reproducción en la parte inferior.'}](https://www.youtube.com/watch?v=hhzC1sbrnGk)
 
 :::::::::::::::::::::::::::::: instructor
 
