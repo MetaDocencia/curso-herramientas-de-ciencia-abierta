@@ -91,7 +91,7 @@ Si necesitás ayuda para ingresar a Slack o tenés alguna consulta sobre la form
 
 ## Sobre MetaDocencia
 
-![Actividad presencial organizada por MetaDocencia.](fig/metadocencia-construccion-de-comunidad.png){alt='Dos fotografías de una actividad presencial de MetaDocencia. En ellas se observa a personas reunidas, conversando y participando de una instancia de formación colaborativa.'}
+![Actividad presencial organizada por MetaDocencia.](fig/metadocencia-construccion-de-comunidad.png){alt='Fotografía de una actividad presencial de MetaDocencia. En ellas se observa a personas reunidas, conversando y participando de una instancia de formación colaborativa.'}
 
 MetaDocencia es una organización sin fines de lucro que trabaja para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
 
